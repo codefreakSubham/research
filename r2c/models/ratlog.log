@@ -1,0 +1,13 @@
+Only relevant dets
+Loading embeddings from /lfs/usrhome/ms/cs21s058/scratch/r2c/data/bert_da_rationale_train.h5
+Only relevant dets
+Loading embeddings from /lfs/usrhome/ms/cs21s058/scratch/r2c/data/bert_da_rationale_val.h5
+Only relevant dets
+Loading embeddings from /lfs/usrhome/ms/cs21s058/scratch/r2c/data/bert_da_rationale_test.h5
+No. of CPU detected is:  32
+No. of GPU detected is:  2
+Using 16 workers out of 32 possible
+Loading MultiHopAttentionQA for rationales
+Running the best model on the test set
+Final val accuracy is 0.687
+Execution time: 0.06446588344044156 hours

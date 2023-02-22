@@ -1,0 +1,4438 @@
+
+ Num gpus: 2 Time:22:50:33
+ Loading data done. Time:22:50:33
+ Train loader: <class 'dataloaders.vcr.VCRLoader'>
+ Inside epoch loop. Time:22:50:43
+ Batch 0 started. Time:22:51:26 completed Time:22:51:30 
+
+ Batch 1 started. Time:22:51:31 completed Time:22:51:31 
+
+ Batch 2 started. Time:22:51:31 completed Time:22:51:32 
+
+ Batch 3 started. Time:22:51:32 completed Time:22:51:33 
+
+ Batch 4 started. Time:22:51:33 completed Time:22:51:33 
+
+ Batch 5 started. Time:22:51:33 completed Time:22:51:34 
+
+ Batch 6 started. Time:22:51:34 completed Time:22:51:35 
+
+ Batch 7 started. Time:22:51:35 completed Time:22:51:35 
+
+ Batch 8 started. Time:22:51:36 completed Time:22:51:36 
+
+ Batch 9 started. Time:22:51:36 completed Time:22:51:37 
+
+ Batch 10 started. Time:22:51:37 completed Time:22:51:38 
+
+ Batch 11 started. Time:22:51:38 completed Time:22:51:38 
+
+ Batch 12 started. Time:22:51:38 completed Time:22:51:39 
+
+ Batch 13 started. Time:22:51:39 completed Time:22:51:40 
+
+ Batch 14 started. Time:22:52:06 completed Time:22:52:07 
+
+ Batch 15 started. Time:22:52:12 completed Time:22:52:12 
+
+ Batch 16 started. Time:22:52:12 completed Time:22:52:13 
+
+ Batch 17 started. Time:22:52:13 completed Time:22:52:14 
+
+ Batch 18 started. Time:22:52:14 completed Time:22:52:14 
+
+ Batch 19 started. Time:22:52:14 completed Time:22:52:15 
+
+ Batch 20 started. Time:22:52:15 completed Time:22:52:16 
+
+ Batch 21 started. Time:22:52:16 completed Time:22:52:16 
+
+ Batch 22 started. Time:22:52:16 completed Time:22:52:17 
+
+ Batch 23 started. Time:22:52:17 completed Time:22:52:18 
+
+ Batch 24 started. Time:22:52:18 completed Time:22:52:18 
+
+ Batch 25 started. Time:22:52:19 completed Time:22:52:19 
+
+ Batch 26 started. Time:22:52:19 completed Time:22:52:20 
+
+ Batch 27 started. Time:22:52:20 completed Time:22:52:20 
+
+ Batch 28 started. Time:22:52:50 completed Time:22:52:51 
+
+ Batch 29 started. Time:22:52:54 completed Time:22:52:55 
+
+ Batch 30 started. Time:22:52:55 completed Time:22:52:56 
+
+ Batch 31 started. Time:22:52:56 completed Time:22:52:56 
+
+ Batch 32 started. Time:22:52:56 completed Time:22:52:57 
+
+ Batch 33 started. Time:22:52:57 completed Time:22:52:58 
+
+ Batch 34 started. Time:22:52:58 completed Time:22:52:58 
+
+ Batch 35 started. Time:22:52:59 completed Time:22:52:59 
+
+ Batch 36 started. Time:22:52:59 completed Time:22:53:00 
+
+ Batch 37 started. Time:22:53:00 completed Time:22:53:01 
+
+ Batch 38 started. Time:22:53:01 completed Time:22:53:01 
+
+ Batch 39 started. Time:22:53:01 completed Time:22:53:02 
+
+ Batch 40 started. Time:22:53:02 completed Time:22:53:03 
+
+ Batch 41 started. Time:22:53:03 completed Time:22:53:03 
+
+ Batch 42 started. Time:22:53:32 completed Time:22:53:33 
+
+ Batch 43 started. Time:22:53:37 completed Time:22:53:38 
+
+ Batch 44 started. Time:22:53:38 completed Time:22:53:38 
+
+ Batch 45 started. Time:22:53:38 completed Time:22:53:39 
+
+ Batch 46 started. Time:22:53:39 completed Time:22:53:40 
+
+ Batch 47 started. Time:22:53:40 completed Time:22:53:40 
+
+ Batch 48 started. Time:22:53:40 completed Time:22:53:41 
+
+ Batch 49 started. Time:22:53:41 completed Time:22:53:42 
+
+ Batch 50 started. Time:22:53:42 completed Time:22:53:42 
+
+ Batch 51 started. Time:22:53:42 completed Time:22:53:43 
+
+ Batch 52 started. Time:22:53:43 completed Time:22:53:44 
+
+ Batch 53 started. Time:22:53:44 completed Time:22:53:44 
+
+ Batch 54 started. Time:22:53:44 completed Time:22:53:45 
+
+ Batch 55 started. Time:22:53:45 completed Time:22:53:46 
+
+ Batch 56 started. Time:22:54:16 completed Time:22:54:17 
+
+ Batch 57 started. Time:22:54:19 completed Time:22:54:20 
+
+ Batch 58 started. Time:22:54:20 completed Time:22:54:21 
+
+ Batch 59 started. Time:22:54:21 completed Time:22:54:22 
+
+ Batch 60 started. Time:22:54:22 completed Time:22:54:22 
+
+ Batch 61 started. Time:22:54:22 completed Time:22:54:23 
+
+ Batch 62 started. Time:22:54:23 completed Time:22:54:24 
+
+ Batch 63 started. Time:22:54:24 completed Time:22:54:24 
+
+ Batch 64 started. Time:22:54:24 completed Time:22:54:25 
+
+ Batch 65 started. Time:22:54:25 completed Time:22:54:26 
+
+ Batch 66 started. Time:22:54:26 completed Time:22:54:26 
+
+ Batch 67 started. Time:22:54:26 completed Time:22:54:27 
+
+ Batch 68 started. Time:22:54:27 completed Time:22:54:28 
+
+ Batch 69 started. Time:22:54:28 completed Time:22:54:28 
+
+ Batch 70 started. Time:22:55:04 completed Time:22:55:05 
+
+ Batch 71 started. Time:22:55:08 completed Time:22:55:09 
+
+ Batch 72 started. Time:22:55:09 completed Time:22:55:09 
+
+ Batch 73 started. Time:22:55:09 completed Time:22:55:10 
+
+ Batch 74 started. Time:22:55:10 completed Time:22:55:11 
+
+ Batch 75 started. Time:22:55:11 completed Time:22:55:11 
+
+ Batch 76 started. Time:22:55:11 completed Time:22:55:12 
+
+ Batch 77 started. Time:22:55:12 completed Time:22:55:13 
+
+ Batch 78 started. Time:22:55:13 completed Time:22:55:13 
+
+ Batch 79 started. Time:22:55:13 completed Time:22:55:14 
+
+ Batch 80 started. Time:22:55:14 completed Time:22:55:15 
+
+ Batch 81 started. Time:22:55:15 completed Time:22:55:15 
+
+ Batch 82 started. Time:22:55:15 completed Time:22:55:16 
+
+ Batch 83 started. Time:22:55:16 completed Time:22:55:17 
+
+ Batch 84 started. Time:22:55:47 completed Time:22:55:48 
+
+ Batch 85 started. Time:22:55:50 completed Time:22:55:51 
+
+ Batch 86 started. Time:22:55:51 completed Time:22:55:51 
+
+ Batch 87 started. Time:22:55:51 completed Time:22:55:52 
+
+ Batch 88 started. Time:22:55:52 completed Time:22:55:53 
+
+ Batch 89 started. Time:22:55:55 completed Time:22:55:55 
+
+ Batch 90 started. Time:22:55:55 completed Time:22:55:56 
+
+ Batch 91 started. Time:22:55:56 completed Time:22:55:57 
+
+ Batch 92 started. Time:22:55:57 completed Time:22:55:57 
+
+ Batch 93 started. Time:22:55:57 completed Time:22:55:58 
+
+ Batch 94 started. Time:22:55:58 completed Time:22:55:59 
+
+ Batch 95 started. Time:22:55:59 completed Time:22:55:59 
+
+ Batch 96 started. Time:22:55:59 completed Time:22:56:00 
+
+ Batch 97 started. Time:22:56:00 completed Time:22:56:01 
+
+ Batch 98 started. Time:22:56:30 completed Time:22:56:31 
+
+ Batch 99 started. Time:22:56:31 completed Time:22:56:32 
+
+ Batch 100 started. Time:22:56:32 completed Time:22:56:33 
+
+ Batch 101 started. Time:22:56:34 completed Time:22:56:34 
+
+ Batch 102 started. Time:22:56:35 completed Time:22:56:35 
+
+ Batch 103 started. Time:22:56:39 completed Time:22:56:40 
+
+ Batch 104 started. Time:22:56:40 completed Time:22:56:40 
+
+ Batch 105 started. Time:22:56:41 completed Time:22:56:41 
+
+ Batch 106 started. Time:22:56:41 completed Time:22:56:42 
+
+ Batch 107 started. Time:22:56:42 completed Time:22:56:43 
+
+ Batch 108 started. Time:22:56:43 completed Time:22:56:43 
+
+ Batch 109 started. Time:22:56:43 completed Time:22:56:44 
+
+ Batch 110 started. Time:22:56:44 completed Time:22:56:45 
+
+ Batch 111 started. Time:22:56:45 completed Time:22:56:45 
+
+ Batch 112 started. Time:22:57:15 completed Time:22:57:15 
+
+ Batch 113 started. Time:22:57:15 completed Time:22:57:16 
+
+ Batch 114 started. Time:22:57:16 completed Time:22:57:17 
+
+ Batch 115 started. Time:22:57:17 completed Time:22:57:24 
+
+ Batch 116 started. Time:22:57:24 completed Time:22:57:24 
+
+ Batch 117 started. Time:22:57:25 completed Time:22:57:25 
+
+ Batch 118 started. Time:22:57:25 completed Time:22:57:26 
+
+ Batch 119 started. Time:22:57:26 completed Time:22:57:27 
+
+ Batch 120 started. Time:22:57:27 completed Time:22:57:27 
+
+ Batch 121 started. Time:22:57:27 completed Time:22:57:28 
+
+ Batch 122 started. Time:22:57:28 completed Time:22:57:29 
+
+ Batch 123 started. Time:22:57:29 completed Time:22:57:29 
+
+ Batch 124 started. Time:22:57:29 completed Time:22:57:30 
+
+ Batch 125 started. Time:22:57:30 completed Time:22:57:31 
+
+ Batch 126 started. Time:22:57:56 completed Time:22:57:57 
+
+ Batch 127 started. Time:22:57:58 completed Time:22:57:58 
+
+ Batch 128 started. Time:22:57:58 completed Time:22:57:59 
+
+ Batch 129 started. Time:22:58:01 completed Time:22:58:02 
+
+ Batch 130 started. Time:22:58:02 completed Time:22:58:03 
+
+ Batch 131 started. Time:22:58:05 completed Time:22:58:05 
+
+ Batch 132 started. Time:22:58:05 completed Time:22:58:06 
+
+ Batch 133 started. Time:22:58:06 completed Time:22:58:07 
+
+ Batch 134 started. Time:22:58:07 completed Time:22:58:07 
+
+ Batch 135 started. Time:22:58:07 completed Time:22:58:08 
+
+ Batch 136 started. Time:22:58:08 completed Time:22:58:09 
+
+ Batch 137 started. Time:22:58:09 completed Time:22:58:09 
+
+ Batch 138 started. Time:22:58:09 completed Time:22:58:10 
+
+ Batch 139 started. Time:22:58:10 completed Time:22:58:11 
+
+ Batch 140 started. Time:22:58:38 completed Time:22:58:39 
+
+ Batch 141 started. Time:22:58:39 completed Time:22:58:39 
+
+ Batch 142 started. Time:22:58:39 completed Time:22:58:40 
+
+ Batch 143 started. Time:22:58:42 completed Time:22:58:43 
+
+ Batch 144 started. Time:22:58:43 completed Time:22:58:44 
+
+ Batch 145 started. Time:22:58:46 completed Time:22:58:47 
+
+ Batch 146 started. Time:22:58:47 completed Time:22:58:48 
+
+ Batch 147 started. Time:22:58:48 completed Time:22:58:48 
+
+ Batch 148 started. Time:22:58:48 completed Time:22:58:49 
+
+ Batch 149 started. Time:22:58:49 completed Time:22:58:50 
+
+ Batch 150 started. Time:22:58:50 completed Time:22:58:50 
+
+ Batch 151 started. Time:22:58:50 completed Time:22:58:51 
+
+ Batch 152 started. Time:22:58:51 completed Time:22:58:52 
+
+ Batch 153 started. Time:22:58:52 completed Time:22:58:52 
+
+ Batch 154 started. Time:22:59:20 completed Time:22:59:20 
+
+ Batch 155 started. Time:22:59:20 completed Time:22:59:21 
+
+ Batch 156 started. Time:22:59:21 completed Time:22:59:22 
+
+ Batch 157 started. Time:22:59:25 completed Time:22:59:26 
+
+ Batch 158 started. Time:22:59:26 completed Time:22:59:26 
+
+ Batch 159 started. Time:22:59:29 completed Time:22:59:29 
+
+ Batch 160 started. Time:22:59:29 completed Time:22:59:30 
+
+ Batch 161 started. Time:22:59:30 completed Time:22:59:31 
+
+ Batch 162 started. Time:22:59:31 completed Time:22:59:31 
+
+ Batch 163 started. Time:22:59:31 completed Time:22:59:32 
+
+ Batch 164 started. Time:22:59:32 completed Time:22:59:33 
+
+ Batch 165 started. Time:22:59:33 completed Time:22:59:33 
+
+ Batch 166 started. Time:22:59:33 completed Time:22:59:34 
+
+ Batch 167 started. Time:22:59:34 completed Time:22:59:35 
+
+ Batch 168 started. Time:23:00:00 completed Time:23:00:01 
+
+ Batch 169 started. Time:23:00:02 completed Time:23:00:03 
+
+ Batch 170 started. Time:23:00:03 completed Time:23:00:04 
+
+ Batch 171 started. Time:23:00:06 completed Time:23:00:07 
+
+ Batch 172 started. Time:23:00:07 completed Time:23:00:07 
+
+ Batch 173 started. Time:23:00:09 completed Time:23:00:10 
+
+ Batch 174 started. Time:23:00:10 completed Time:23:00:11 
+
+ Batch 175 started. Time:23:00:11 completed Time:23:00:11 
+
+ Batch 176 started. Time:23:00:11 completed Time:23:00:12 
+
+ Batch 177 started. Time:23:00:12 completed Time:23:00:13 
+
+ Batch 178 started. Time:23:00:13 completed Time:23:00:13 
+
+ Batch 179 started. Time:23:00:13 completed Time:23:00:14 
+
+ Batch 180 started. Time:23:00:14 completed Time:23:00:15 
+
+ Batch 181 started. Time:23:00:15 completed Time:23:00:15 
+
+ Batch 182 started. Time:23:00:41 completed Time:23:00:42 
+
+ Batch 183 started. Time:23:00:44 completed Time:23:00:44 
+
+ Batch 184 started. Time:23:00:44 completed Time:23:00:45 
+
+ Batch 185 started. Time:23:00:47 completed Time:23:00:47 
+
+ Batch 186 started. Time:23:00:48 completed Time:23:00:48 
+
+ Batch 187 started. Time:23:00:51 completed Time:23:00:52 
+
+ Batch 188 started. Time:23:00:52 completed Time:23:00:53 
+
+ Batch 189 started. Time:23:00:53 completed Time:23:00:53 
+
+ Batch 190 started. Time:23:00:53 completed Time:23:00:54 
+
+ Batch 191 started. Time:23:00:54 completed Time:23:00:55 
+
+ Batch 192 started. Time:23:00:55 completed Time:23:00:55 
+
+ Batch 193 started. Time:23:00:56 completed Time:23:00:56 
+
+ Batch 194 started. Time:23:00:56 completed Time:23:00:57 
+
+ Batch 195 started. Time:23:00:57 completed Time:23:00:58 
+
+ Batch 196 started. Time:23:01:23 completed Time:23:01:23 
+
+ Batch 197 started. Time:23:01:25 completed Time:23:01:26 
+
+ Batch 198 started. Time:23:01:26 completed Time:23:01:26 
+
+ Batch 199 started. Time:23:01:28 completed Time:23:01:29 
+
+ Batch 200 started. Time:23:01:29 completed Time:23:01:29 
+
+ Batch 201 started. Time:23:01:32 completed Time:23:01:32 
+
+ Batch 202 started. Time:23:01:32 completed Time:23:01:33 
+
+ Batch 203 started. Time:23:01:33 completed Time:23:01:34 
+
+ Batch 204 started. Time:23:01:34 completed Time:23:01:34 
+
+ Batch 205 started. Time:23:01:34 completed Time:23:01:35 
+
+ Batch 206 started. Time:23:01:35 completed Time:23:01:36 
+
+ Batch 207 started. Time:23:01:36 completed Time:23:01:36 
+
+ Batch 208 started. Time:23:01:36 completed Time:23:01:37 
+
+ Batch 209 started. Time:23:01:37 completed Time:23:01:38 
+
+ Batch 210 started. Time:23:02:04 completed Time:23:02:05 
+
+ Batch 211 started. Time:23:02:07 completed Time:23:02:08 
+
+ Batch 212 started. Time:23:02:08 completed Time:23:02:08 
+
+ Batch 213 started. Time:23:02:10 completed Time:23:02:11 
+
+ Batch 214 started. Time:23:02:11 completed Time:23:02:11 
+
+ Batch 215 started. Time:23:02:12 completed Time:23:02:13 
+
+ Batch 216 started. Time:23:02:13 completed Time:23:02:14 
+
+ Batch 217 started. Time:23:02:14 completed Time:23:02:14 
+
+ Batch 218 started. Time:23:02:14 completed Time:23:02:15 
+
+ Batch 219 started. Time:23:02:15 completed Time:23:02:16 
+
+ Batch 220 started. Time:23:02:16 completed Time:23:02:16 
+
+ Batch 221 started. Time:23:02:16 completed Time:23:02:17 
+
+ Batch 222 started. Time:23:02:17 completed Time:23:02:18 
+
+ Batch 223 started. Time:23:02:18 completed Time:23:02:18 
+
+ Batch 224 started. Time:23:02:46 completed Time:23:02:46 
+
+ Batch 225 started. Time:23:02:49 completed Time:23:02:49 
+
+ Batch 226 started. Time:23:02:49 completed Time:23:02:50 
+
+ Batch 227 started. Time:23:02:52 completed Time:23:02:53 
+
+ Batch 228 started. Time:23:02:53 completed Time:23:02:53 
+
+ Batch 229 started. Time:23:02:55 completed Time:23:02:55 
+
+ Batch 230 started. Time:23:02:55 completed Time:23:02:56 
+
+ Batch 231 started. Time:23:02:56 completed Time:23:02:57 
+
+ Batch 232 started. Time:23:02:57 completed Time:23:02:57 
+
+ Batch 233 started. Time:23:02:57 completed Time:23:02:58 
+
+ Batch 234 started. Time:23:02:58 completed Time:23:02:59 
+
+ Batch 235 started. Time:23:02:59 completed Time:23:02:59 
+
+ Batch 236 started. Time:23:02:59 completed Time:23:03:00 
+
+ Batch 237 started. Time:23:03:00 completed Time:23:03:01 
+
+ Batch 238 started. Time:23:03:27 completed Time:23:03:28 
+
+ Batch 239 started. Time:23:03:30 completed Time:23:03:31 
+
+ Batch 240 started. Time:23:03:31 completed Time:23:03:31 
+
+ Batch 241 started. Time:23:03:32 completed Time:23:03:33 
+
+ Batch 242 started. Time:23:03:33 completed Time:23:03:33 
+
+ Batch 243 started. Time:23:03:35 completed Time:23:03:36 
+
+ Batch 244 started. Time:23:03:36 completed Time:23:03:37 
+
+ Batch 245 started. Time:23:03:37 completed Time:23:03:37 
+
+ Batch 246 started. Time:23:03:37 completed Time:23:03:38 
+
+ Batch 247 started. Time:23:03:38 completed Time:23:03:39 
+
+ Batch 248 started. Time:23:03:39 completed Time:23:03:40 
+
+ Batch 249 started. Time:23:03:40 completed Time:23:03:40 
+
+ Batch 250 started. Time:23:03:40 completed Time:23:03:41 
+
+ Batch 251 started. Time:23:03:41 completed Time:23:03:42 
+
+ Batch 252 started. Time:23:04:09 completed Time:23:04:10 
+
+ Batch 253 started. Time:23:04:10 completed Time:23:04:11 
+
+ Batch 254 started. Time:23:04:11 completed Time:23:04:12 
+
+ Batch 255 started. Time:23:04:14 completed Time:23:04:15 
+
+ Batch 256 started. Time:23:04:15 completed Time:23:04:16 
+
+ Batch 257 started. Time:23:04:16 completed Time:23:04:17 
+
+ Batch 258 started. Time:23:04:17 completed Time:23:04:18 
+
+ Batch 259 started. Time:23:04:18 completed Time:23:04:18 
+
+ Batch 260 started. Time:23:04:18 completed Time:23:04:19 
+
+ Batch 261 started. Time:23:04:19 completed Time:23:04:20 
+
+ Batch 262 started. Time:23:04:20 completed Time:23:04:20 
+
+ Batch 263 started. Time:23:04:20 completed Time:23:04:21 
+
+ Batch 264 started. Time:23:04:21 completed Time:23:04:22 
+
+ Batch 265 started. Time:23:04:22 completed Time:23:04:22 
+
+ Batch 266 started. Time:23:04:50 completed Time:23:04:51 
+
+ Batch 267 started. Time:23:04:51 completed Time:23:04:52 
+
+ Batch 268 started. Time:23:04:52 completed Time:23:04:52 
+
+ Batch 269 started. Time:23:04:55 completed Time:23:04:56 
+
+ Batch 270 started. Time:23:04:56 completed Time:23:04:56 
+
+ Batch 271 started. Time:23:04:57 completed Time:23:04:57 
+
+ Batch 272 started. Time:23:04:58 completed Time:23:04:58 
+
+ Batch 273 started. Time:23:04:58 completed Time:23:04:59 
+
+ Batch 274 started. Time:23:04:59 completed Time:23:05:00 
+
+ Batch 275 started. Time:23:05:00 completed Time:23:05:00 
+
+ Batch 276 started. Time:23:05:00 completed Time:23:05:01 
+
+ Batch 277 started. Time:23:05:01 completed Time:23:05:02 
+
+ Batch 278 started. Time:23:05:02 completed Time:23:05:02 
+
+ Batch 279 started. Time:23:05:02 completed Time:23:05:03 
+
+ Batch 280 started. Time:23:05:31 completed Time:23:05:31 
+
+ Batch 281 started. Time:23:05:32 completed Time:23:05:33 
+
+ Batch 282 started. Time:23:05:33 completed Time:23:05:34 
+
+ Batch 283 started. Time:23:05:36 completed Time:23:05:37 
+
+ Batch 284 started. Time:23:05:37 completed Time:23:05:37 
+
+ Batch 285 started. Time:23:05:38 completed Time:23:05:39 
+
+ Batch 286 started. Time:23:05:39 completed Time:23:05:40 
+
+ Batch 287 started. Time:23:05:40 completed Time:23:05:40 
+
+ Batch 288 started. Time:23:05:40 completed Time:23:05:41 
+
+ Batch 289 started. Time:23:05:41 completed Time:23:05:42 
+
+ Batch 290 started. Time:23:05:42 completed Time:23:05:42 
+
+ Batch 291 started. Time:23:05:42 completed Time:23:05:43 
+
+ Batch 292 started. Time:23:05:43 completed Time:23:05:44 
+
+ Batch 293 started. Time:23:05:44 completed Time:23:05:44 
+
+ Batch 294 started. Time:23:06:12 completed Time:23:06:13 
+
+ Batch 295 started. Time:23:06:13 completed Time:23:06:14 
+
+ Batch 296 started. Time:23:06:14 completed Time:23:06:15 
+
+ Batch 297 started. Time:23:06:16 completed Time:23:06:17 
+
+ Batch 298 started. Time:23:06:17 completed Time:23:06:18 
+
+ Batch 299 started. Time:23:06:20 completed Time:23:06:21 
+
+ Batch 300 started. Time:23:06:21 completed Time:23:06:22 
+
+ Batch 301 started. Time:23:06:22 completed Time:23:06:22 
+
+ Batch 302 started. Time:23:06:22 completed Time:23:06:23 
+
+ Batch 303 started. Time:23:06:23 completed Time:23:06:24 
+
+ Batch 304 started. Time:23:06:24 completed Time:23:06:24 
+
+ Batch 305 started. Time:23:06:24 completed Time:23:06:25 
+
+ Batch 306 started. Time:23:06:25 completed Time:23:06:26 
+
+ Batch 307 started. Time:23:06:26 completed Time:23:06:26 
+
+ Batch 308 started. Time:23:06:52 completed Time:23:06:52 
+
+ Batch 309 started. Time:23:06:54 completed Time:23:06:55 
+
+ Batch 310 started. Time:23:06:55 completed Time:23:06:56 
+
+ Batch 311 started. Time:23:06:58 completed Time:23:06:59 
+
+ Batch 312 started. Time:23:06:59 completed Time:23:06:59 
+
+ Batch 313 started. Time:23:07:02 completed Time:23:07:03 
+
+ Batch 314 started. Time:23:07:03 completed Time:23:07:03 
+
+ Batch 315 started. Time:23:07:03 completed Time:23:07:04 
+
+ Batch 316 started. Time:23:07:04 completed Time:23:07:05 
+
+ Batch 317 started. Time:23:07:05 completed Time:23:07:05 
+
+ Batch 318 started. Time:23:07:05 completed Time:23:07:06 
+
+ Batch 319 started. Time:23:07:06 completed Time:23:07:07 
+
+ Batch 320 started. Time:23:07:07 completed Time:23:07:07 
+
+ Batch 321 started. Time:23:07:08 completed Time:23:07:08 
+
+ Batch 322 started. Time:23:07:32 completed Time:23:07:33 
+
+ Batch 323 started. Time:23:07:36 completed Time:23:07:37 
+
+ Batch 324 started. Time:23:07:37 completed Time:23:07:37 
+
+ Batch 325 started. Time:23:07:39 completed Time:23:07:40 
+
+ Batch 326 started. Time:23:07:40 completed Time:23:07:41 
+
+ Batch 327 started. Time:23:07:43 completed Time:23:07:44 
+
+ Batch 328 started. Time:23:07:44 completed Time:23:07:44 
+
+ Batch 329 started. Time:23:07:44 completed Time:23:07:45 
+
+ Batch 330 started. Time:23:07:45 completed Time:23:07:46 
+
+ Batch 331 started. Time:23:07:46 completed Time:23:07:46 
+
+ Batch 332 started. Time:23:07:47 completed Time:23:07:47 
+
+ Batch 333 started. Time:23:07:47 completed Time:23:07:48 
+
+ Batch 334 started. Time:23:07:48 completed Time:23:07:49 
+
+ Batch 335 started. Time:23:07:49 completed Time:23:07:49 
+
+ Batch 336 started. Time:23:08:13 completed Time:23:08:13 
+
+ Batch 337 started. Time:23:08:17 completed Time:23:08:18 
+
+ Batch 338 started. Time:23:08:18 completed Time:23:08:19 
+
+ Batch 339 started. Time:23:08:21 completed Time:23:08:21 
+
+ Batch 340 started. Time:23:08:21 completed Time:23:08:22 
+
+ Batch 341 started. Time:23:08:24 completed Time:23:08:25 
+
+ Batch 342 started. Time:23:08:25 completed Time:23:08:26 
+
+ Batch 343 started. Time:23:08:26 completed Time:23:08:26 
+
+ Batch 344 started. Time:23:08:26 completed Time:23:08:27 
+
+ Batch 345 started. Time:23:08:27 completed Time:23:08:28 
+
+ Batch 346 started. Time:23:08:28 completed Time:23:08:28 
+
+ Batch 347 started. Time:23:08:28 completed Time:23:08:29 
+
+ Batch 348 started. Time:23:08:29 completed Time:23:08:30 
+
+ Batch 349 started. Time:23:08:30 completed Time:23:08:30 
+
+ Batch 350 started. Time:23:08:53 completed Time:23:08:53 
+
+ Batch 351 started. Time:23:08:57 completed Time:23:08:58 
+
+ Batch 352 started. Time:23:08:58 completed Time:23:08:59 
+
+ Batch 353 started. Time:23:09:01 completed Time:23:09:01 
+
+ Batch 354 started. Time:23:09:01 completed Time:23:09:02 
+
+ Batch 355 started. Time:23:09:05 completed Time:23:09:05 
+
+ Batch 356 started. Time:23:09:05 completed Time:23:09:06 
+
+ Batch 357 started. Time:23:09:06 completed Time:23:09:07 
+
+ Batch 358 started. Time:23:09:07 completed Time:23:09:07 
+
+ Batch 359 started. Time:23:09:07 completed Time:23:09:08 
+
+ Batch 360 started. Time:23:09:08 completed Time:23:09:09 
+
+ Batch 361 started. Time:23:09:09 completed Time:23:09:09 
+
+ Batch 362 started. Time:23:09:10 completed Time:23:09:10 
+
+ Batch 363 started. Time:23:09:10 completed Time:23:09:11 
+
+ Batch 364 started. Time:23:09:35 completed Time:23:09:35 
+
+ Batch 365 started. Time:23:09:39 completed Time:23:09:40 
+
+ Batch 366 started. Time:23:09:40 completed Time:23:09:40 
+
+ Batch 367 started. Time:23:09:41 completed Time:23:09:42 
+
+ Batch 368 started. Time:23:09:42 completed Time:23:09:42 
+
+ Batch 369 started. Time:23:09:45 completed Time:23:09:46 
+
+ Batch 370 started. Time:23:09:46 completed Time:23:09:46 
+
+ Batch 371 started. Time:23:09:47 completed Time:23:09:47 
+
+ Batch 372 started. Time:23:09:47 completed Time:23:09:48 
+
+ Batch 373 started. Time:23:09:48 completed Time:23:09:49 
+
+ Batch 374 started. Time:23:09:49 completed Time:23:09:49 
+
+ Batch 375 started. Time:23:09:49 completed Time:23:09:50 
+
+ Batch 376 started. Time:23:09:50 completed Time:23:09:51 
+
+ Batch 377 started. Time:23:09:51 completed Time:23:09:51 
+
+ Batch 378 started. Time:23:10:16 completed Time:23:10:17 
+
+ Batch 379 started. Time:23:10:20 completed Time:23:10:20 
+
+ Batch 380 started. Time:23:10:20 completed Time:23:10:21 
+
+ Batch 381 started. Time:23:10:22 completed Time:23:10:22 
+
+ Batch 382 started. Time:23:10:23 completed Time:23:10:23 
+
+ Batch 383 started. Time:23:10:27 completed Time:23:10:27 
+
+ Batch 384 started. Time:23:10:27 completed Time:23:10:28 
+
+ Batch 385 started. Time:23:10:28 completed Time:23:10:29 
+
+ Batch 386 started. Time:23:10:29 completed Time:23:10:29 
+
+ Batch 387 started. Time:23:10:30 completed Time:23:10:30 
+
+ Batch 388 started. Time:23:10:30 completed Time:23:10:31 
+
+ Batch 389 started. Time:23:10:31 completed Time:23:10:32 
+
+ Batch 390 started. Time:23:10:32 completed Time:23:10:32 
+
+ Batch 391 started. Time:23:10:32 completed Time:23:10:33 
+
+ Batch 392 started. Time:23:10:57 completed Time:23:10:58 
+
+ Batch 393 started. Time:23:11:03 completed Time:23:11:04 
+
+ Batch 394 started. Time:23:11:04 completed Time:23:11:05 
+
+ Batch 395 started. Time:23:11:05 completed Time:23:11:05 
+
+ Batch 396 started. Time:23:11:05 completed Time:23:11:06 
+
+ Batch 397 started. Time:23:11:09 completed Time:23:11:09 
+
+ Batch 398 started. Time:23:11:09 completed Time:23:11:10 
+
+ Batch 399 started. Time:23:11:10 completed Time:23:11:11 
+
+ Batch 400 started. Time:23:11:11 completed Time:23:11:12 
+
+ Batch 401 started. Time:23:11:12 completed Time:23:11:12 
+
+ Batch 402 started. Time:23:11:12 completed Time:23:11:13 
+
+ Batch 403 started. Time:23:11:13 completed Time:23:11:14 
+
+ Batch 404 started. Time:23:11:14 completed Time:23:11:14 
+
+ Batch 405 started. Time:23:11:14 completed Time:23:11:15 
+
+ Batch 406 started. Time:23:11:38 completed Time:23:11:39 
+
+ Batch 407 started. Time:23:11:45 completed Time:23:11:46 
+
+ Batch 408 started. Time:23:11:46 completed Time:23:11:47 
+
+ Batch 409 started. Time:23:11:47 completed Time:23:11:47 
+
+ Batch 410 started. Time:23:11:48 completed Time:23:11:48 
+
+ Batch 411 started. Time:23:11:51 completed Time:23:11:52 
+
+ Batch 412 started. Time:23:11:52 completed Time:23:11:52 
+
+ Batch 413 started. Time:23:11:52 completed Time:23:11:53 
+
+ Batch 414 started. Time:23:11:53 completed Time:23:11:54 
+
+ Batch 415 started. Time:23:11:54 completed Time:23:11:54 
+
+ Batch 416 started. Time:23:11:54 completed Time:23:11:55 
+
+ Batch 417 started. Time:23:11:55 completed Time:23:11:56 
+
+ Batch 418 started. Time:23:11:56 completed Time:23:11:56 
+
+ Batch 419 started. Time:23:11:56 completed Time:23:11:57 
+
+ Batch 420 started. Time:23:12:19 completed Time:23:12:20 
+
+ Batch 421 started. Time:23:12:27 completed Time:23:12:28 
+
+ Batch 422 started. Time:23:12:28 completed Time:23:12:28 
+
+ Batch 423 started. Time:23:12:30 completed Time:23:12:30 
+
+ Batch 424 started. Time:23:12:31 completed Time:23:12:31 
+
+ Batch 425 started. Time:23:12:34 completed Time:23:12:34 
+
+ Batch 426 started. Time:23:12:34 completed Time:23:12:35 
+
+ Batch 427 started. Time:23:12:35 completed Time:23:12:36 
+
+ Batch 428 started. Time:23:12:36 completed Time:23:12:36 
+
+ Batch 429 started. Time:23:12:36 completed Time:23:12:37 
+
+ Batch 430 started. Time:23:12:37 completed Time:23:12:38 
+
+ Batch 431 started. Time:23:12:38 completed Time:23:12:38 
+
+ Batch 432 started. Time:23:12:39 completed Time:23:12:39 
+
+ Batch 433 started. Time:23:12:39 completed Time:23:12:40 
+
+ Batch 434 started. Time:23:13:02 completed Time:23:13:02 
+
+ Batch 435 started. Time:23:13:09 completed Time:23:13:10 
+
+ Batch 436 started. Time:23:13:10 completed Time:23:13:10 
+
+ Batch 437 started. Time:23:13:12 completed Time:23:13:13 
+
+ Batch 438 started. Time:23:13:13 completed Time:23:13:13 
+
+ Batch 439 started. Time:23:13:15 completed Time:23:13:16 
+
+ Batch 440 started. Time:23:13:16 completed Time:23:13:16 
+
+ Batch 441 started. Time:23:13:17 completed Time:23:13:17 
+
+ Batch 442 started. Time:23:13:17 completed Time:23:13:18 
+
+ Batch 443 started. Time:23:13:18 completed Time:23:13:19 
+
+ Batch 444 started. Time:23:13:19 completed Time:23:13:19 
+
+ Batch 445 started. Time:23:13:19 completed Time:23:13:20 
+
+ Batch 446 started. Time:23:13:20 completed Time:23:13:21 
+
+ Batch 447 started. Time:23:13:21 completed Time:23:13:21 
+
+ Batch 448 started. Time:23:13:43 completed Time:23:13:44 
+
+ Batch 449 started. Time:23:13:51 completed Time:23:13:52 
+
+ Batch 450 started. Time:23:13:52 completed Time:23:13:52 
+
+ Batch 451 started. Time:23:13:54 completed Time:23:13:54 
+
+ Batch 452 started. Time:23:13:54 completed Time:23:13:55 
+
+ Batch 453 started. Time:23:13:58 completed Time:23:13:59 
+
+ Batch 454 started. Time:23:13:59 completed Time:23:13:59 
+
+ Batch 455 started. Time:23:13:59 completed Time:23:14:00 
+
+ Batch 456 started. Time:23:14:00 completed Time:23:14:01 
+
+ Batch 457 started. Time:23:14:01 completed Time:23:14:01 
+
+ Batch 458 started. Time:23:14:02 completed Time:23:14:02 
+
+ Batch 459 started. Time:23:14:02 completed Time:23:14:03 
+
+ Batch 460 started. Time:23:14:03 completed Time:23:14:04 
+
+ Batch 461 started. Time:23:14:04 completed Time:23:14:04 
+
+ Batch 462 started. Time:23:14:27 completed Time:23:14:27 
+
+ Batch 463 started. Time:23:14:37 completed Time:23:14:37 
+
+ Batch 464 started. Time:23:14:37 completed Time:23:14:38 
+
+ Batch 465 started. Time:23:14:38 completed Time:23:14:39 
+
+ Batch 466 started. Time:23:14:39 completed Time:23:14:40 
+
+ Batch 467 started. Time:23:14:42 completed Time:23:14:43 
+
+ Batch 468 started. Time:23:14:43 completed Time:23:14:43 
+
+ Batch 469 started. Time:23:14:43 completed Time:23:14:44 
+
+ Batch 470 started. Time:23:14:44 completed Time:23:14:45 
+
+ Batch 471 started. Time:23:14:45 completed Time:23:14:45 
+
+ Batch 472 started. Time:23:14:45 completed Time:23:14:46 
+
+ Batch 473 started. Time:23:14:46 completed Time:23:14:47 
+
+ Batch 474 started. Time:23:14:47 completed Time:23:14:48 
+
+ Batch 475 started. Time:23:14:48 completed Time:23:14:48 
+
+ Batch 476 started. Time:23:15:10 completed Time:23:15:11 
+
+ Batch 477 started. Time:23:15:22 completed Time:23:15:22 
+
+ Batch 478 started. Time:23:15:22 completed Time:23:15:23 
+
+ Batch 479 started. Time:23:15:23 completed Time:23:15:24 
+
+ Batch 480 started. Time:23:15:24 completed Time:23:15:25 
+
+ Batch 481 started. Time:23:15:27 completed Time:23:15:27 
+
+ Batch 482 started. Time:23:15:28 completed Time:23:15:28 
+
+ Batch 483 started. Time:23:15:28 completed Time:23:15:29 
+
+ Batch 484 started. Time:23:15:29 completed Time:23:15:30 
+
+ Batch 485 started. Time:23:15:30 completed Time:23:15:30 
+
+ Batch 486 started. Time:23:15:30 completed Time:23:15:31 
+
+ Batch 487 started. Time:23:15:31 completed Time:23:15:32 
+
+ Batch 488 started. Time:23:15:32 completed Time:23:15:32 
+
+ Batch 489 started. Time:23:15:32 completed Time:23:15:33 
+
+ Batch 490 started. Time:23:15:56 completed Time:23:15:56 
+
+ Batch 491 started. Time:23:16:08 completed Time:23:16:09 
+
+ Batch 492 started. Time:23:16:09 completed Time:23:16:09 
+
+ Batch 493 started. Time:23:16:09 completed Time:23:16:10 
+
+ Batch 494 started. Time:23:16:10 completed Time:23:16:11 
+
+ Batch 495 started. Time:23:16:12 completed Time:23:16:13 
+
+ Batch 496 started. Time:23:16:13 completed Time:23:16:14 
+
+ Batch 497 started. Time:23:16:14 completed Time:23:16:14 
+
+ Batch 498 started. Time:23:16:14 completed Time:23:16:15 
+
+ Batch 499 started. Time:23:16:15 completed Time:23:16:16 
+
+ Batch 500 started. Time:23:16:16 completed Time:23:16:16 
+
+ Batch 501 started. Time:23:16:17 completed Time:23:16:17 
+
+ Batch 502 started. Time:23:16:17 completed Time:23:16:18 
+
+ Batch 503 started. Time:23:16:18 completed Time:23:16:18 
+
+ Batch 504 started. Time:23:16:39 completed Time:23:16:40 
+
+ Batch 505 started. Time:23:16:54 completed Time:23:16:55 
+
+ Batch 506 started. Time:23:16:55 completed Time:23:16:55 
+
+ Batch 507 started. Time:23:16:55 completed Time:23:16:56 
+
+ Batch 508 started. Time:23:16:56 completed Time:23:16:57 
+
+ Batch 509 started. Time:23:17:00 completed Time:23:17:01 
+
+ Batch 510 started. Time:23:17:01 completed Time:23:17:01 
+
+ Batch 511 started. Time:23:17:01 completed Time:23:17:02 
+
+ Batch 512 started. Time:23:17:02 completed Time:23:17:03 
+
+ Batch 513 started. Time:23:17:03 completed Time:23:17:03 
+
+ Batch 514 started. Time:23:17:03 completed Time:23:17:04 
+
+ Batch 515 started. Time:23:17:04 completed Time:23:17:05 
+
+ Batch 516 started. Time:23:17:05 completed Time:23:17:05 
+
+ Batch 517 started. Time:23:17:05 completed Time:23:17:06 
+
+ Batch 518 started. Time:23:17:33 completed Time:23:17:33 
+
+ Batch 519 started. Time:23:17:50 completed Time:23:17:51 
+
+ Batch 520 started. Time:23:17:51 completed Time:23:17:51 
+
+ Batch 521 started. Time:23:17:51 completed Time:23:17:52 
+
+ Batch 522 started. Time:23:17:52 completed Time:23:17:53 
+
+ Batch 523 started. Time:23:17:57 completed Time:23:17:57 
+
+ Batch 524 started. Time:23:17:57 completed Time:23:17:58 
+
+ Batch 525 started. Time:23:17:58 completed Time:23:17:59 
+
+ Batch 526 started. Time:23:17:59 completed Time:23:17:59 
+
+ Batch 527 started. Time:23:17:59 completed Time:23:18:00 
+
+ Batch 528 started. Time:23:18:00 completed Time:23:18:01 
+
+ Batch 529 started. Time:23:18:01 completed Time:23:18:01 
+
+ Batch 530 started. Time:23:18:01 completed Time:23:18:02 
+
+ Batch 531 started. Time:23:18:02 completed Time:23:18:03 
+
+ Batch 532 started. Time:23:18:30 completed Time:23:18:30 
+
+ Batch 533 started. Time:23:18:43 completed Time:23:18:43 
+
+ Batch 534 started. Time:23:18:44 completed Time:23:18:44 
+
+ Batch 535 started. Time:23:18:44 completed Time:23:18:45 
+
+ Batch 536 started. Time:23:18:45 completed Time:23:18:46 
+
+ Batch 537 started. Time:23:18:47 completed Time:23:18:47 
+
+ Batch 538 started. Time:23:18:47 completed Time:23:18:48 
+
+ Batch 539 started. Time:23:18:48 completed Time:23:18:49 
+
+ Batch 540 started. Time:23:18:49 completed Time:23:18:49 
+
+ Batch 541 started. Time:23:18:50 completed Time:23:18:50 
+
+ Batch 542 started. Time:23:18:50 completed Time:23:18:51 
+
+ Batch 543 started. Time:23:18:51 completed Time:23:18:52 
+
+ Batch 544 started. Time:23:18:52 completed Time:23:18:52 
+
+ Batch 545 started. Time:23:18:52 completed Time:23:18:53 
+
+ Batch 546 started. Time:23:19:15 completed Time:23:19:16 
+
+ Batch 547 started. Time:23:19:28 completed Time:23:19:29 
+
+ Batch 548 started. Time:23:19:29 completed Time:23:19:30 
+
+ Batch 549 started. Time:23:19:30 completed Time:23:19:31 
+
+ Batch 550 started. Time:23:19:31 completed Time:23:19:31 
+
+ Batch 551 started. Time:23:19:31 completed Time:23:19:32 
+
+ Batch 552 started. Time:23:19:32 completed Time:23:19:33 
+
+ Batch 553 started. Time:23:19:33 completed Time:23:19:33 
+
+ Batch 554 started. Time:23:19:33 completed Time:23:19:34 
+
+ Batch 555 started. Time:23:19:34 completed Time:23:19:35 
+
+ Batch 556 started. Time:23:19:35 completed Time:23:19:35 
+
+ Batch 557 started. Time:23:19:35 completed Time:23:19:36 
+
+ Batch 558 started. Time:23:19:36 completed Time:23:19:37 
+
+ Batch 559 started. Time:23:19:37 completed Time:23:19:37 
+
+ Batch 560 started. Time:23:19:59 completed Time:23:20:00 
+
+ Batch 561 started. Time:23:20:13 completed Time:23:20:14 
+
+ Batch 562 started. Time:23:20:14 completed Time:23:20:14 
+
+ Batch 563 started. Time:23:20:14 completed Time:23:20:15 
+
+ Batch 564 started. Time:23:20:15 completed Time:23:20:16 
+
+ Batch 565 started. Time:23:20:16 completed Time:23:20:16 
+
+ Batch 566 started. Time:23:20:17 completed Time:23:20:17 
+
+ Batch 567 started. Time:23:20:17 completed Time:23:20:18 
+
+ Batch 568 started. Time:23:20:18 completed Time:23:20:19 
+
+ Batch 569 started. Time:23:20:19 completed Time:23:20:19 
+
+ Batch 570 started. Time:23:20:19 completed Time:23:20:20 
+
+ Batch 571 started. Time:23:20:20 completed Time:23:20:21 
+
+ Batch 572 started. Time:23:20:21 completed Time:23:20:21 
+
+ Batch 573 started. Time:23:20:21 completed Time:23:20:22 
+
+ Batch 574 started. Time:23:20:44 completed Time:23:20:45 
+
+ Batch 575 started. Time:23:20:57 completed Time:23:20:58 
+
+ Batch 576 started. Time:23:20:58 completed Time:23:20:59 
+
+ Batch 577 started. Time:23:20:59 completed Time:23:20:59 
+
+ Batch 578 started. Time:23:21:00 completed Time:23:21:00 
+
+ Batch 579 started. Time:23:21:00 completed Time:23:21:01 
+
+ Batch 580 started. Time:23:21:01 completed Time:23:21:01 
+
+ Batch 581 started. Time:23:21:02 completed Time:23:21:02 
+
+ Batch 582 started. Time:23:21:02 completed Time:23:21:03 
+
+ Batch 583 started. Time:23:21:03 completed Time:23:21:04 
+
+ Batch 584 started. Time:23:21:04 completed Time:23:21:04 
+
+ Batch 585 started. Time:23:21:04 completed Time:23:21:05 
+
+ Batch 586 started. Time:23:21:05 completed Time:23:21:06 
+
+ Batch 587 started. Time:23:21:06 completed Time:23:21:06 
+
+ Batch 588 started. Time:23:21:29 completed Time:23:21:30 
+
+ Batch 589 started. Time:23:21:43 completed Time:23:21:44 
+
+ Batch 590 started. Time:23:21:44 completed Time:23:21:45 
+
+ Batch 591 started. Time:23:21:47 completed Time:23:21:47 
+
+ Batch 592 started. Time:23:21:48 completed Time:23:21:48 
+
+ Batch 593 started. Time:23:21:48 completed Time:23:21:49 
+
+ Batch 594 started. Time:23:21:49 completed Time:23:21:50 
+
+ Batch 595 started. Time:23:21:50 completed Time:23:21:50 
+
+ Batch 596 started. Time:23:21:50 completed Time:23:21:51 
+
+ Batch 597 started. Time:23:21:51 completed Time:23:21:52 
+
+ Batch 598 started. Time:23:21:52 completed Time:23:21:52 
+
+ Batch 599 started. Time:23:21:52 completed Time:23:21:53 
+
+ Batch 600 started. Time:23:21:53 completed Time:23:21:54 
+
+ Batch 601 started. Time:23:21:54 completed Time:23:21:54 
+
+ Batch 602 started. Time:23:22:17 completed Time:23:22:18 
+
+ Batch 603 started. Time:23:22:29 completed Time:23:22:30 
+
+ Batch 604 started. Time:23:22:30 completed Time:23:22:31 
+
+ Batch 605 started. Time:23:22:33 completed Time:23:22:33 
+
+ Batch 606 started. Time:23:22:33 completed Time:23:22:34 
+
+ Batch 607 started. Time:23:22:34 completed Time:23:22:35 
+
+ Batch 608 started. Time:23:22:35 completed Time:23:22:35 
+
+ Batch 609 started. Time:23:22:35 completed Time:23:22:36 
+
+ Batch 610 started. Time:23:22:36 completed Time:23:22:37 
+
+ Batch 611 started. Time:23:22:37 completed Time:23:22:37 
+
+ Batch 612 started. Time:23:22:37 completed Time:23:22:38 
+
+ Batch 613 started. Time:23:22:38 completed Time:23:22:39 
+
+ Batch 614 started. Time:23:22:39 completed Time:23:22:39 
+
+ Batch 615 started. Time:23:22:40 completed Time:23:22:40 
+
+ Batch 616 started. Time:23:23:05 completed Time:23:23:05 
+
+ Batch 617 started. Time:23:23:16 completed Time:23:23:17 
+
+ Batch 618 started. Time:23:23:17 completed Time:23:23:18 
+
+ Batch 619 started. Time:23:23:20 completed Time:23:23:21 
+
+ Batch 620 started. Time:23:23:21 completed Time:23:23:22 
+
+ Batch 621 started. Time:23:23:22 completed Time:23:23:22 
+
+ Batch 622 started. Time:23:23:22 completed Time:23:23:23 
+
+ Batch 623 started. Time:23:23:23 completed Time:23:23:24 
+
+ Batch 624 started. Time:23:23:24 completed Time:23:23:25 
+
+ Batch 625 started. Time:23:23:25 completed Time:23:23:25 
+
+ Batch 626 started. Time:23:23:25 completed Time:23:23:26 
+
+ Batch 627 started. Time:23:23:26 completed Time:23:23:27 
+
+ Batch 628 started. Time:23:23:27 completed Time:23:23:27 
+
+ Batch 629 started. Time:23:23:27 completed Time:23:23:28 
+
+ Batch 630 started. Time:23:23:55 completed Time:23:23:56 
+
+ Batch 631 started. Time:23:24:07 completed Time:23:24:08 
+
+ Batch 632 started. Time:23:24:08 completed Time:23:24:09 
+
+ Batch 633 started. Time:23:24:12 completed Time:23:24:12 
+
+ Batch 634 started. Time:23:24:12 completed Time:23:24:13 
+
+ Batch 635 started. Time:23:24:13 completed Time:23:24:14 
+
+ Batch 636 started. Time:23:24:14 completed Time:23:24:14 
+
+ Batch 637 started. Time:23:24:15 completed Time:23:24:15 
+
+ Batch 638 started. Time:23:24:15 completed Time:23:24:16 
+
+ Batch 639 started. Time:23:24:16 completed Time:23:24:17 
+
+ Batch 640 started. Time:23:24:17 completed Time:23:24:17 
+
+ Batch 641 started. Time:23:24:17 completed Time:23:24:18 
+
+ Batch 642 started. Time:23:24:18 completed Time:23:24:19 
+
+ Batch 643 started. Time:23:24:19 completed Time:23:24:19 
+
+ Batch 644 started. Time:23:24:41 completed Time:23:24:42 
+
+ Batch 645 started. Time:23:24:54 completed Time:23:24:55 
+
+ Batch 646 started. Time:23:24:55 completed Time:23:24:55 
+
+ Batch 647 started. Time:23:24:56 completed Time:23:24:57 
+
+ Batch 648 started. Time:23:24:57 completed Time:23:24:58 
+
+ Batch 649 started. Time:23:24:58 completed Time:23:24:58 
+
+ Batch 650 started. Time:23:24:58 completed Time:23:24:59 
+
+ Batch 651 started. Time:23:24:59 completed Time:23:25:00 
+
+ Batch 652 started. Time:23:25:00 completed Time:23:25:00 
+
+ Batch 653 started. Time:23:25:01 completed Time:23:25:01 
+
+ Batch 654 started. Time:23:25:01 completed Time:23:25:02 
+
+ Batch 655 started. Time:23:25:02 completed Time:23:25:02 
+
+ Batch 656 started. Time:23:25:03 completed Time:23:25:03 
+
+ Batch 657 started. Time:23:25:03 completed Time:23:25:04 
+
+ Batch 658 started. Time:23:25:28 completed Time:23:25:29 
+
+ Batch 659 started. Time:23:25:39 completed Time:23:25:39 
+
+ Batch 660 started. Time:23:25:39 completed Time:23:25:40 
+
+ Batch 661 started. Time:23:25:41 completed Time:23:25:42 
+
+ Batch 662 started. Time:23:25:42 completed Time:23:25:42 
+
+ Batch 663 started. Time:23:25:43 completed Time:23:25:43 
+
+ Batch 664 started. Time:23:25:43 completed Time:23:25:44 
+
+ Batch 665 started. Time:23:25:44 completed Time:23:25:45 
+
+ Batch 666 started. Time:23:25:45 completed Time:23:25:45 
+
+ Batch 667 started. Time:23:25:45 completed Time:23:25:46 
+
+ Batch 668 started. Time:23:25:46 completed Time:23:25:47 
+
+ Batch 669 started. Time:23:25:47 completed Time:23:25:47 
+
+ Batch 670 started. Time:23:25:47 completed Time:23:25:48 
+
+ Batch 671 started. Time:23:25:48 completed Time:23:25:49 
+
+ Batch 672 started. Time:23:26:12 completed Time:23:26:12 
+
+ Batch 673 started. Time:23:26:24 completed Time:23:26:25 
+
+ Batch 674 started. Time:23:26:25 completed Time:23:26:25 
+
+ Batch 675 started. Time:23:26:26 completed Time:23:26:26 
+
+ Batch 676 started. Time:23:26:26 completed Time:23:26:27 
+
+ Batch 677 started. Time:23:26:27 completed Time:23:26:28 
+
+ Batch 678 started. Time:23:26:28 completed Time:23:26:28 
+
+ Batch 679 started. Time:23:26:28 completed Time:23:26:29 
+
+ Batch 680 started. Time:23:26:29 completed Time:23:26:30 
+
+ Batch 681 started. Time:23:26:30 completed Time:23:26:30 
+
+ Batch 682 started. Time:23:26:30 completed Time:23:26:31 
+
+ Batch 683 started. Time:23:26:31 completed Time:23:26:32 
+
+ Batch 684 started. Time:23:26:32 completed Time:23:26:32 
+
+ Batch 685 started. Time:23:26:32 completed Time:23:26:33 
+
+ Batch 686 started. Time:23:26:56 completed Time:23:26:56 
+
+ Batch 687 started. Time:23:27:07 completed Time:23:27:08 
+
+ Batch 688 started. Time:23:27:08 completed Time:23:27:08 
+
+ Batch 689 started. Time:23:27:08 completed Time:23:27:09 
+
+ Batch 690 started. Time:23:27:09 completed Time:23:27:10 
+
+ Batch 691 started. Time:23:27:10 completed Time:23:27:10 
+
+ Batch 692 started. Time:23:27:10 completed Time:23:27:11 
+
+ Batch 693 started. Time:23:27:11 completed Time:23:27:12 
+
+ Batch 694 started. Time:23:27:12 completed Time:23:27:12 
+
+ Batch 695 started. Time:23:27:12 completed Time:23:27:13 
+
+ Batch 696 started. Time:23:27:13 completed Time:23:27:14 
+
+ Batch 697 started. Time:23:27:14 completed Time:23:27:14 
+
+ Batch 698 started. Time:23:27:14 completed Time:23:27:15 
+
+ Batch 699 started. Time:23:27:15 completed Time:23:27:16 
+
+ Batch 700 started. Time:23:27:39 completed Time:23:27:39 
+
+ Batch 701 started. Time:23:27:51 completed Time:23:27:51 
+
+ Batch 702 started. Time:23:27:52 completed Time:23:27:52 
+
+ Batch 703 started. Time:23:27:52 completed Time:23:27:53 
+
+ Batch 704 started. Time:23:27:53 completed Time:23:27:54 
+
+ Batch 705 started. Time:23:27:54 completed Time:23:27:54 
+
+ Batch 706 started. Time:23:27:54 completed Time:23:27:55 
+
+ Batch 707 started. Time:23:27:55 completed Time:23:27:56 
+
+ Batch 708 started. Time:23:27:56 completed Time:23:27:56 
+
+ Batch 709 started. Time:23:27:56 completed Time:23:27:57 
+
+ Batch 710 started. Time:23:27:57 completed Time:23:27:58 
+
+ Batch 711 started. Time:23:27:58 completed Time:23:27:58 
+
+ Batch 712 started. Time:23:27:59 completed Time:23:27:59 
+
+ Batch 713 started. Time:23:27:59 completed Time:23:28:00 
+
+ Batch 714 started. Time:23:28:24 completed Time:23:28:24 
+
+ Batch 715 started. Time:23:28:35 completed Time:23:28:36 
+
+ Batch 716 started. Time:23:28:36 completed Time:23:28:36 
+
+ Batch 717 started. Time:23:28:36 completed Time:23:28:37 
+
+ Batch 718 started. Time:23:28:37 completed Time:23:28:38 
+
+ Batch 719 started. Time:23:28:38 completed Time:23:28:38 
+
+ Batch 720 started. Time:23:28:38 completed Time:23:28:39 
+
+ Batch 721 started. Time:23:28:39 completed Time:23:28:40 
+
+ Batch 722 started. Time:23:28:40 completed Time:23:28:40 
+
+ Batch 723 started. Time:23:28:40 completed Time:23:28:41 
+
+ Batch 724 started. Time:23:28:41 completed Time:23:28:42 
+
+ Batch 725 started. Time:23:28:42 completed Time:23:28:42 
+
+ Batch 726 started. Time:23:28:43 completed Time:23:28:43 
+
+ Batch 727 started. Time:23:28:43 completed Time:23:28:44 
+
+ Batch 728 started. Time:23:29:07 completed Time:23:29:08 
+
+ Batch 729 started. Time:23:29:22 completed Time:23:29:22 
+
+ Batch 730 started. Time:23:29:23 completed Time:23:29:23 
+
+ Batch 731 started. Time:23:29:23 completed Time:23:29:24 
+
+ Batch 732 started. Time:23:29:24 completed Time:23:29:25 
+
+ Batch 733 started. Time:23:29:25 completed Time:23:29:25 
+
+ Batch 734 started. Time:23:29:25 completed Time:23:29:26 
+
+ Batch 735 started. Time:23:29:26 completed Time:23:29:27 
+
+ Batch 736 started. Time:23:29:27 completed Time:23:29:27 
+
+ Batch 737 started. Time:23:29:27 completed Time:23:29:28 
+
+ Batch 738 started. Time:23:29:28 completed Time:23:29:29 
+
+ Batch 739 started. Time:23:29:29 completed Time:23:29:29 
+
+ Batch 740 started. Time:23:29:29 completed Time:23:29:30 
+
+ Batch 741 started. Time:23:29:30 completed Time:23:29:31 
+
+ Batch 742 started. Time:23:29:52 completed Time:23:29:52 
+
+ Batch 743 started. Time:23:30:08 completed Time:23:30:08 
+
+ Batch 744 started. Time:23:30:08 completed Time:23:30:09 
+
+ Batch 745 started. Time:23:30:10 completed Time:23:30:10 
+
+ Batch 746 started. Time:23:30:10 completed Time:23:30:11 
+
+ Batch 747 started. Time:23:30:11 completed Time:23:30:12 
+
+ Batch 748 started. Time:23:30:12 completed Time:23:30:12 
+
+ Batch 749 started. Time:23:30:13 completed Time:23:30:13 
+
+ Batch 750 started. Time:23:30:13 completed Time:23:30:14 
+
+ Batch 751 started. Time:23:30:14 completed Time:23:30:15 
+
+ Batch 752 started. Time:23:30:15 completed Time:23:30:15 
+
+ Batch 753 started. Time:23:30:15 completed Time:23:30:16 
+
+ Batch 754 started. Time:23:30:16 completed Time:23:30:17 
+
+ Batch 755 started. Time:23:30:17 completed Time:23:30:17 
+
+ Batch 756 started. Time:23:30:35 completed Time:23:30:36 
+
+ Batch 757 started. Time:23:30:54 completed Time:23:30:54 
+
+ Batch 758 started. Time:23:30:55 completed Time:23:30:55 
+
+ Batch 759 started. Time:23:30:56 completed Time:23:30:57 
+
+ Batch 760 started. Time:23:30:57 completed Time:23:30:58 
+
+ Batch 761 started. Time:23:30:58 completed Time:23:30:58 
+
+ Batch 762 started. Time:23:30:58 completed Time:23:30:59 
+
+ Batch 763 started. Time:23:30:59 completed Time:23:31:00 
+
+ Batch 764 started. Time:23:31:00 completed Time:23:31:00 
+
+ Batch 765 started. Time:23:31:00 completed Time:23:31:01 
+
+ Batch 766 started. Time:23:31:01 completed Time:23:31:02 
+
+ Batch 767 started. Time:23:31:02 completed Time:23:31:02 
+
+ Batch 768 started. Time:23:31:02 completed Time:23:31:03 
+
+ Batch 769 started. Time:23:31:03 completed Time:23:31:04 
+
+ Batch 770 started. Time:23:31:21 completed Time:23:31:21 
+
+ Batch 771 started. Time:23:31:38 completed Time:23:31:39 
+
+ Batch 772 started. Time:23:31:39 completed Time:23:31:40 
+
+ Batch 773 started. Time:23:31:41 completed Time:23:31:42 
+
+ Batch 774 started. Time:23:31:42 completed Time:23:31:43 
+
+ Batch 775 started. Time:23:31:43 completed Time:23:31:43 
+
+ Batch 776 started. Time:23:31:43 completed Time:23:31:44 
+
+ Batch 777 started. Time:23:31:44 completed Time:23:31:45 
+
+ Batch 778 started. Time:23:31:45 completed Time:23:31:45 
+
+ Batch 779 started. Time:23:31:45 completed Time:23:31:46 
+
+ Batch 780 started. Time:23:31:46 completed Time:23:31:47 
+
+ Batch 781 started. Time:23:31:47 completed Time:23:31:47 
+
+ Batch 782 started. Time:23:31:47 completed Time:23:31:48 
+
+ Batch 783 started. Time:23:31:48 completed Time:23:31:49 
+
+ Batch 784 started. Time:23:32:06 completed Time:23:32:07 
+
+ Batch 785 started. Time:23:32:26 completed Time:23:32:26 
+
+ Batch 786 started. Time:23:32:26 completed Time:23:32:27 
+
+ Batch 787 started. Time:23:32:27 completed Time:23:32:28 
+
+ Batch 788 started. Time:23:32:28 completed Time:23:32:28 
+
+ Batch 789 started. Time:23:32:28 completed Time:23:32:29 
+
+ Batch 790 started. Time:23:32:29 completed Time:23:32:30 
+
+ Batch 791 started. Time:23:32:30 completed Time:23:32:30 
+
+ Batch 792 started. Time:23:32:31 completed Time:23:32:31 
+
+ Batch 793 started. Time:23:32:31 completed Time:23:32:32 
+
+ Batch 794 started. Time:23:32:32 completed Time:23:32:33 
+
+ Batch 795 started. Time:23:32:33 completed Time:23:32:33 
+
+ Batch 796 started. Time:23:32:33 completed Time:23:32:34 
+
+ Batch 797 started. Time:23:32:34 completed Time:23:32:35 
+
+ Batch 798 started. Time:23:32:51 completed Time:23:32:52 
+
+ Batch 799 started. Time:23:33:11 completed Time:23:33:11 
+
+ Batch 800 started. Time:23:33:11 completed Time:23:33:12 
+
+ Batch 801 started. Time:23:33:13 completed Time:23:33:14 
+
+ Batch 802 started. Time:23:33:14 completed Time:23:33:14 
+
+ Batch 803 started. Time:23:33:14 completed Time:23:33:15 
+
+ Batch 804 started. Time:23:33:15 completed Time:23:33:16 
+
+ Batch 805 started. Time:23:33:16 completed Time:23:33:16 
+
+ Batch 806 started. Time:23:33:16 completed Time:23:33:17 
+
+ Batch 807 started. Time:23:33:17 completed Time:23:33:18 
+
+ Batch 808 started. Time:23:33:18 completed Time:23:33:18 
+
+ Batch 809 started. Time:23:33:18 completed Time:23:33:19 
+
+ Batch 810 started. Time:23:33:19 completed Time:23:33:20 
+
+ Batch 811 started. Time:23:33:20 completed Time:23:33:20 
+
+ Batch 812 started. Time:23:33:37 completed Time:23:33:37 
+
+ Batch 813 started. Time:23:33:56 completed Time:23:33:57 
+
+ Batch 814 started. Time:23:33:57 completed Time:23:33:57 
+
+ Batch 815 started. Time:23:33:59 completed Time:23:34:00 
+
+ Batch 816 started. Time:23:34:00 completed Time:23:34:00 
+
+ Batch 817 started. Time:23:34:01 completed Time:23:34:01 
+
+ Batch 818 started. Time:23:34:01 completed Time:23:34:02 
+
+ Batch 819 started. Time:23:34:02 completed Time:23:34:03 
+
+ Batch 820 started. Time:23:34:03 completed Time:23:34:03 
+
+ Batch 821 started. Time:23:34:03 completed Time:23:34:04 
+
+ Batch 822 started. Time:23:34:04 completed Time:23:34:05 
+
+ Batch 823 started. Time:23:34:05 completed Time:23:34:05 
+
+ Batch 824 started. Time:23:34:05 completed Time:23:34:06 
+
+ Batch 825 started. Time:23:34:06 completed Time:23:34:07 
+
+ Batch 826 started. Time:23:34:24 completed Time:23:34:24 
+
+ Batch 827 started. Time:23:34:42 completed Time:23:34:42 
+
+ Batch 828 started. Time:23:34:43 completed Time:23:34:43 
+
+ Batch 829 started. Time:23:34:45 completed Time:23:34:45 
+
+ Batch 830 started. Time:23:34:46 completed Time:23:34:46 
+
+ Batch 831 started. Time:23:34:46 completed Time:23:34:47 
+
+ Batch 832 started. Time:23:34:47 completed Time:23:34:48 
+
+ Batch 833 started. Time:23:34:48 completed Time:23:34:48 
+
+ Batch 834 started. Time:23:34:48 completed Time:23:34:49 
+
+ Batch 835 started. Time:23:34:49 completed Time:23:34:50 
+
+ Batch 836 started. Time:23:34:50 completed Time:23:34:50 
+
+ Batch 837 started. Time:23:34:50 completed Time:23:34:51 
+
+ Batch 838 started. Time:23:34:51 completed Time:23:34:52 
+
+ Batch 839 started. Time:23:34:52 completed Time:23:34:52 
+
+ Batch 840 started. Time:23:35:10 completed Time:23:35:11 
+
+ Batch 841 started. Time:23:35:28 completed Time:23:35:28 
+
+ Batch 842 started. Time:23:35:28 completed Time:23:35:29 
+
+ Batch 843 started. Time:23:35:34 completed Time:23:35:34 
+
+ Batch 844 started. Time:23:35:34 completed Time:23:35:35 
+
+ Batch 845 started. Time:23:35:35 completed Time:23:35:36 
+
+ Batch 846 started. Time:23:35:36 completed Time:23:35:36 
+
+ Batch 847 started. Time:23:35:36 completed Time:23:35:37 
+
+ Batch 848 started. Time:23:35:37 completed Time:23:35:38 
+
+ Batch 849 started. Time:23:35:38 completed Time:23:35:38 
+
+ Batch 850 started. Time:23:35:38 completed Time:23:35:39 
+
+ Batch 851 started. Time:23:35:39 completed Time:23:35:40 
+
+ Batch 852 started. Time:23:35:40 completed Time:23:35:40 
+
+ Batch 853 started. Time:23:35:40 completed Time:23:35:41 
+
+ Batch 854 started. Time:23:35:58 completed Time:23:35:59 
+
+ Batch 855 started. Time:23:36:16 completed Time:23:36:17 
+
+ Batch 856 started. Time:23:36:17 completed Time:23:36:17 
+
+ Batch 857 started. Time:23:36:18 completed Time:23:36:19 
+
+ Batch 858 started. Time:23:36:19 completed Time:23:36:20 
+
+ Batch 859 started. Time:23:36:20 completed Time:23:36:20 
+
+ Batch 860 started. Time:23:36:21 completed Time:23:36:21 
+
+ Batch 861 started. Time:23:36:21 completed Time:23:36:22 
+
+ Batch 862 started. Time:23:36:22 completed Time:23:36:23 
+
+ Batch 863 started. Time:23:36:23 completed Time:23:36:23 
+
+ Batch 864 started. Time:23:36:23 completed Time:23:36:24 
+
+ Batch 865 started. Time:23:36:24 completed Time:23:36:25 
+
+ Batch 866 started. Time:23:36:25 completed Time:23:36:25 
+
+ Batch 867 started. Time:23:36:25 completed Time:23:36:26 
+
+ Batch 868 started. Time:23:36:47 completed Time:23:36:48 
+
+ Batch 869 started. Time:23:37:04 completed Time:23:37:05 
+
+ Batch 870 started. Time:23:37:05 completed Time:23:37:05 
+
+ Batch 871 started. Time:23:37:05 completed Time:23:37:06 
+
+ Batch 872 started. Time:23:37:06 completed Time:23:37:07 
+
+ Batch 873 started. Time:23:37:07 completed Time:23:37:07 
+
+ Batch 874 started. Time:23:37:07 completed Time:23:37:08 
+
+ Batch 875 started. Time:23:37:08 completed Time:23:37:09 
+
+ Batch 876 started. Time:23:37:09 completed Time:23:37:09 
+
+ Batch 877 started. Time:23:37:09 completed Time:23:37:10 
+
+ Batch 878 started. Time:23:37:10 completed Time:23:37:11 
+
+ Batch 879 started. Time:23:37:11 completed Time:23:37:11 
+
+ Batch 880 started. Time:23:37:12 completed Time:23:37:12 
+
+ Batch 881 started. Time:23:37:12 completed Time:23:37:13 
+
+ Batch 882 started. Time:23:37:33 completed Time:23:37:34 
+
+ Batch 883 started. Time:23:37:49 completed Time:23:37:50 
+
+ Batch 884 started. Time:23:37:50 completed Time:23:37:50 
+
+ Batch 885 started. Time:23:37:50 completed Time:23:37:51 
+
+ Batch 886 started. Time:23:37:51 completed Time:23:37:52 
+
+ Batch 887 started. Time:23:37:52 completed Time:23:37:52 
+
+ Batch 888 started. Time:23:37:52 completed Time:23:37:53 
+
+ Batch 889 started. Time:23:37:53 completed Time:23:37:54 
+
+ Batch 890 started. Time:23:37:54 completed Time:23:37:54 
+
+ Batch 891 started. Time:23:37:55 completed Time:23:37:55 
+
+ Batch 892 started. Time:23:37:55 completed Time:23:37:56 
+
+ Batch 893 started. Time:23:37:56 completed Time:23:37:57 
+
+ Batch 894 started. Time:23:37:57 completed Time:23:37:57 
+
+ Batch 895 started. Time:23:37:57 completed Time:23:37:58 
+
+ Batch 896 started. Time:23:38:20 completed Time:23:38:21 
+
+ Batch 897 started. Time:23:38:37 completed Time:23:38:38 
+
+ Batch 898 started. Time:23:38:38 completed Time:23:38:38 
+
+ Batch 899 started. Time:23:38:38 completed Time:23:38:39 
+
+ Batch 900 started. Time:23:38:39 completed Time:23:38:40 
+
+ Batch 901 started. Time:23:38:41 completed Time:23:38:41 
+
+ Batch 902 started. Time:23:38:41 completed Time:23:38:42 
+
+ Batch 903 started. Time:23:38:42 completed Time:23:38:43 
+
+ Batch 904 started. Time:23:38:43 completed Time:23:38:43 
+
+ Batch 905 started. Time:23:38:43 completed Time:23:38:44 
+
+ Batch 906 started. Time:23:38:44 completed Time:23:38:45 
+
+ Batch 907 started. Time:23:38:45 completed Time:23:38:45 
+
+ Batch 908 started. Time:23:38:45 completed Time:23:38:46 
+
+ Batch 909 started. Time:23:38:46 completed Time:23:38:47 
+
+ Batch 910 started. Time:23:39:08 completed Time:23:39:08 
+
+ Batch 911 started. Time:23:39:26 completed Time:23:39:27 
+
+ Batch 912 started. Time:23:39:27 completed Time:23:39:27 
+
+ Batch 913 started. Time:23:39:27 completed Time:23:39:28 
+
+ Batch 914 started. Time:23:39:28 completed Time:23:39:29 
+
+ Batch 915 started. Time:23:39:29 completed Time:23:39:30 
+
+ Batch 916 started. Time:23:39:30 completed Time:23:39:31 
+
+ Batch 917 started. Time:23:39:31 completed Time:23:39:31 
+
+ Batch 918 started. Time:23:39:31 completed Time:23:39:32 
+
+ Batch 919 started. Time:23:39:32 completed Time:23:39:33 
+
+ Batch 920 started. Time:23:39:33 completed Time:23:39:33 
+
+ Batch 921 started. Time:23:39:33 completed Time:23:39:34 
+
+ Batch 922 started. Time:23:39:34 completed Time:23:39:35 
+
+ Batch 923 started. Time:23:39:35 completed Time:23:39:35 
+
+ Batch 924 started. Time:23:39:55 completed Time:23:39:56 
+
+ Batch 925 started. Time:23:40:12 completed Time:23:40:12 
+
+ Batch 926 started. Time:23:40:12 completed Time:23:40:13 
+
+ Batch 927 started. Time:23:40:13 completed Time:23:40:14 
+
+ Batch 928 started. Time:23:40:14 completed Time:23:40:14 
+
+ Batch 929 started. Time:23:40:16 completed Time:23:40:16 
+
+ Batch 930 started. Time:23:40:16 completed Time:23:40:17 
+
+ Batch 931 started. Time:23:40:17 completed Time:23:40:18 
+
+ Batch 932 started. Time:23:40:18 completed Time:23:40:18 
+
+ Batch 933 started. Time:23:40:18 completed Time:23:40:19 
+
+ Batch 934 started. Time:23:40:19 completed Time:23:40:20 
+
+ Batch 935 started. Time:23:40:20 completed Time:23:40:20 
+
+ Batch 936 started. Time:23:40:20 completed Time:23:40:21 
+
+ Batch 937 started. Time:23:40:21 completed Time:23:40:22 
+
+ Batch 938 started. Time:23:40:41 completed Time:23:40:42 
+
+ Batch 939 started. Time:23:40:58 completed Time:23:40:59 
+
+ Batch 940 started. Time:23:40:59 completed Time:23:40:59 
+
+ Batch 941 started. Time:23:40:59 completed Time:23:41:00 
+
+ Batch 942 started. Time:23:41:00 completed Time:23:41:01 
+
+ Batch 943 started. Time:23:41:02 completed Time:23:41:03 
+
+ Batch 944 started. Time:23:41:03 completed Time:23:41:03 
+
+ Batch 945 started. Time:23:41:03 completed Time:23:41:04 
+
+ Batch 946 started. Time:23:41:04 completed Time:23:41:05 
+
+ Batch 947 started. Time:23:41:05 completed Time:23:41:05 
+
+ Batch 948 started. Time:23:41:05 completed Time:23:41:06 
+
+ Batch 949 started. Time:23:41:06 completed Time:23:41:07 
+
+ Batch 950 started. Time:23:41:07 completed Time:23:41:08 
+
+ Batch 951 started. Time:23:41:08 completed Time:23:41:08 
+
+ Batch 952 started. Time:23:41:27 completed Time:23:41:28 
+
+ Batch 953 started. Time:23:41:46 completed Time:23:41:47 
+
+ Batch 954 started. Time:23:41:47 completed Time:23:41:47 
+
+ Batch 955 started. Time:23:41:47 completed Time:23:41:48 
+
+ Batch 956 started. Time:23:41:48 completed Time:23:41:49 
+
+ Batch 957 started. Time:23:41:49 completed Time:23:41:49 
+
+ Batch 958 started. Time:23:41:50 completed Time:23:41:50 
+
+ Batch 959 started. Time:23:41:50 completed Time:23:41:51 
+
+ Batch 960 started. Time:23:41:51 completed Time:23:41:52 
+
+ Batch 961 started. Time:23:41:52 completed Time:23:41:52 
+
+ Batch 962 started. Time:23:41:52 completed Time:23:41:53 
+
+ Batch 963 started. Time:23:41:53 completed Time:23:41:54 
+
+ Batch 964 started. Time:23:41:54 completed Time:23:41:54 
+
+ Batch 965 started. Time:23:41:54 completed Time:23:41:55 
+
+ Batch 966 started. Time:23:42:14 completed Time:23:42:15 
+
+ Batch 967 started. Time:23:42:30 completed Time:23:42:30 
+
+ Batch 968 started. Time:23:42:30 completed Time:23:42:31 
+
+ Batch 969 started. Time:23:42:31 completed Time:23:42:32 
+
+ Batch 970 started. Time:23:42:32 completed Time:23:42:32 
+
+ Batch 971 started. Time:23:42:32 completed Time:23:42:33 
+
+ Batch 972 started. Time:23:42:33 completed Time:23:42:34 
+
+ Batch 973 started. Time:23:42:34 completed Time:23:42:34 
+
+ Batch 974 started. Time:23:42:35 completed Time:23:42:35 
+
+ Batch 975 started. Time:23:42:35 completed Time:23:42:36 
+
+ Batch 976 started. Time:23:42:36 completed Time:23:42:37 
+
+ Batch 977 started. Time:23:42:37 completed Time:23:42:37 
+
+ Batch 978 started. Time:23:42:37 completed Time:23:42:38 
+
+ Batch 979 started. Time:23:42:38 completed Time:23:42:39 
+
+ Batch 980 started. Time:23:42:58 completed Time:23:42:58 
+
+ Batch 981 started. Time:23:43:15 completed Time:23:43:16 
+
+ Batch 982 started. Time:23:43:16 completed Time:23:43:17 
+
+ Batch 983 started. Time:23:43:17 completed Time:23:43:17 
+
+ Batch 984 started. Time:23:43:17 completed Time:23:43:18 
+
+ Batch 985 started. Time:23:43:18 completed Time:23:43:19 
+
+ Batch 986 started. Time:23:43:19 completed Time:23:43:20 
+
+ Batch 987 started. Time:23:43:20 completed Time:23:43:21 
+
+ Batch 988 started. Time:23:43:21 completed Time:23:43:21 
+
+ Batch 989 started. Time:23:43:21 completed Time:23:43:22 
+
+ Batch 990 started. Time:23:43:22 completed Time:23:43:23 
+
+ Batch 991 started. Time:23:43:23 completed Time:23:43:23 
+
+ Batch 992 started. Time:23:43:23 completed Time:23:43:24 
+
+ Batch 993 started. Time:23:43:24 completed Time:23:43:25 
+
+ Batch 994 started. Time:23:43:44 completed Time:23:43:45 
+
+ Batch 995 started. Time:23:44:07 completed Time:23:44:07 
+
+ Batch 996 started. Time:23:44:07 completed Time:23:44:08 
+
+ Batch 997 started. Time:23:44:08 completed Time:23:44:09 
+
+ Batch 998 started. Time:23:44:09 completed Time:23:44:09 
+
+ Batch 999 started. Time:23:44:09 completed Time:23:44:10 
+
+ Batch 1000 started. Time:23:44:10 completed Time:23:44:11 
+
+ Batch 1001 started. Time:23:44:11 completed Time:23:44:11 
+
+ Batch 1002 started. Time:23:44:12 completed Time:23:44:12 
+
+ Batch 1003 started. Time:23:44:12 completed Time:23:44:13 
+
+ Batch 1004 started. Time:23:44:13 completed Time:23:44:14 
+
+ Batch 1005 started. Time:23:44:14 completed Time:23:44:14 
+
+ Batch 1006 started. Time:23:44:14 completed Time:23:44:15 
+
+ Batch 1007 started. Time:23:44:15 completed Time:23:44:16 
+
+ Batch 1008 started. Time:23:44:29 completed Time:23:44:30 
+
+ Batch 1009 started. Time:23:44:50 completed Time:23:44:51 
+
+ Batch 1010 started. Time:23:44:51 completed Time:23:44:51 
+
+ Batch 1011 started. Time:23:44:51 completed Time:23:44:52 
+
+ Batch 1012 started. Time:23:44:52 completed Time:23:44:53 
+
+ Batch 1013 started. Time:23:44:53 completed Time:23:44:54 
+
+ Batch 1014 started. Time:23:44:54 completed Time:23:44:54 
+
+ Batch 1015 started. Time:23:44:54 completed Time:23:44:55 
+
+ Batch 1016 started. Time:23:44:55 completed Time:23:44:56 
+
+ Batch 1017 started. Time:23:44:56 completed Time:23:44:56 
+
+ Batch 1018 started. Time:23:44:57 completed Time:23:44:57 
+
+ Batch 1019 started. Time:23:44:58 completed Time:23:44:58 
+
+ Batch 1020 started. Time:23:44:58 completed Time:23:44:59 
+
+ Batch 1021 started. Time:23:44:59 completed Time:23:45:00 
+
+ Batch 1022 started. Time:23:45:19 completed Time:23:45:20 
+
+ Batch 1023 started. Time:23:45:35 completed Time:23:45:35 
+
+ Batch 1024 started. Time:23:45:35 completed Time:23:45:36 
+
+ Batch 1025 started. Time:23:45:37 completed Time:23:45:38 
+
+ Batch 1026 started. Time:23:45:38 completed Time:23:45:39 
+
+ Batch 1027 started. Time:23:45:42 completed Time:23:45:42 
+
+ Batch 1028 started. Time:23:45:42 completed Time:23:45:43 
+
+ Batch 1029 started. Time:23:45:43 completed Time:23:45:43 
+
+ Batch 1030 started. Time:23:45:44 completed Time:23:45:44 
+
+ Batch 1031 started. Time:23:45:44 completed Time:23:45:45 
+
+ Batch 1032 started. Time:23:45:45 completed Time:23:45:46 
+
+ Batch 1033 started. Time:23:45:46 completed Time:23:45:46 
+
+ Batch 1034 started. Time:23:45:47 completed Time:23:45:47 
+
+ Batch 1035 started. Time:23:45:47 completed Time:23:45:48 
+
+ Batch 1036 started. Time:23:46:06 completed Time:23:46:06 
+
+ Batch 1037 started. Time:23:46:22 completed Time:23:46:23 
+
+ Batch 1038 started. Time:23:46:23 completed Time:23:46:24 
+
+ Batch 1039 started. Time:23:46:25 completed Time:23:46:25 
+
+ Batch 1040 started. Time:23:46:25 completed Time:23:46:26 
+
+ Batch 1041 started. Time:23:46:29 completed Time:23:46:30 
+
+ Batch 1042 started. Time:23:46:30 completed Time:23:46:30 
+
+ Batch 1043 started. Time:23:46:30 completed Time:23:46:31 
+
+ Batch 1044 started. Time:23:46:31 completed Time:23:46:32 
+
+ Batch 1045 started. Time:23:46:32 completed Time:23:46:32 
+
+ Batch 1046 started. Time:23:46:33 completed Time:23:46:33 
+
+ Batch 1047 started. Time:23:46:33 completed Time:23:46:34 
+
+ Batch 1048 started. Time:23:46:34 completed Time:23:46:35 
+
+ Batch 1049 started. Time:23:46:35 completed Time:23:46:35 
+
+ Batch 1050 started. Time:23:46:53 completed Time:23:46:54 
+
+ Batch 1051 started. Time:23:47:09 completed Time:23:47:09 
+
+ Batch 1052 started. Time:23:47:09 completed Time:23:47:10 
+
+ Batch 1053 started. Time:23:47:10 completed Time:23:47:11 
+
+ Batch 1054 started. Time:23:47:11 completed Time:23:47:11 
+
+ Batch 1055 started. Time:23:47:16 completed Time:23:47:16 
+
+ Batch 1056 started. Time:23:47:16 completed Time:23:47:17 
+
+ Batch 1057 started. Time:23:47:17 completed Time:23:47:18 
+
+ Batch 1058 started. Time:23:47:18 completed Time:23:47:18 
+
+ Batch 1059 started. Time:23:47:19 completed Time:23:47:19 
+
+ Batch 1060 started. Time:23:47:19 completed Time:23:47:20 
+
+ Batch 1061 started. Time:23:47:20 completed Time:23:47:20 
+
+ Batch 1062 started. Time:23:47:21 completed Time:23:47:21 
+
+ Batch 1063 started. Time:23:47:21 completed Time:23:47:22 
+
+ Batch 1064 started. Time:23:47:39 completed Time:23:47:40 
+
+ Batch 1065 started. Time:23:47:58 completed Time:23:47:59 
+
+ Batch 1066 started. Time:23:47:59 completed Time:23:48:00 
+
+ Batch 1067 started. Time:23:48:00 completed Time:23:48:00 
+
+ Batch 1068 started. Time:23:48:00 completed Time:23:48:01 
+
+ Batch 1069 started. Time:23:48:05 completed Time:23:48:06 
+
+ Batch 1070 started. Time:23:48:06 completed Time:23:48:06 
+
+ Batch 1071 started. Time:23:48:06 completed Time:23:48:07 
+
+ Batch 1072 started. Time:23:48:07 completed Time:23:48:08 
+
+ Batch 1073 started. Time:23:48:08 completed Time:23:48:08 
+
+ Batch 1074 started. Time:23:48:08 completed Time:23:48:09 
+
+ Batch 1075 started. Time:23:48:09 completed Time:23:48:10 
+
+ Batch 1076 started. Time:23:48:10 completed Time:23:48:10 
+
+ Batch 1077 started. Time:23:48:11 completed Time:23:48:11 
+
+ Batch 1078 started. Time:23:48:27 completed Time:23:48:28 
+
+ Batch 1079 started. Time:23:48:46 completed Time:23:48:46 
+
+ Batch 1080 started. Time:23:48:47 completed Time:23:48:47 
+
+ Batch 1081 started. Time:23:48:47 completed Time:23:48:48 
+
+ Batch 1082 started. Time:23:48:48 completed Time:23:48:49 
+
+ Batch 1083 started. Time:23:48:52 completed Time:23:48:53 
+
+ Batch 1084 started. Time:23:48:53 completed Time:23:48:54 
+
+ Batch 1085 started. Time:23:48:54 completed Time:23:48:54 
+
+ Batch 1086 started. Time:23:48:54 completed Time:23:48:55 
+
+ Batch 1087 started. Time:23:48:55 completed Time:23:48:56 
+
+ Batch 1088 started. Time:23:48:56 completed Time:23:48:56 
+
+ Batch 1089 started. Time:23:48:57 completed Time:23:48:57 
+
+ Batch 1090 started. Time:23:48:57 completed Time:23:48:58 
+
+ Batch 1091 started. Time:23:48:58 completed Time:23:48:59 
+
+ Batch 1092 started. Time:23:49:14 completed Time:23:49:15 
+
+ Batch 1093 started. Time:23:49:31 completed Time:23:49:32 
+
+ Batch 1094 started. Time:23:49:32 completed Time:23:49:33 
+
+ Batch 1095 started. Time:23:49:33 completed Time:23:49:33 
+
+ Batch 1096 started. Time:23:49:33 completed Time:23:49:34 
+
+ Batch 1097 started. Time:23:49:37 completed Time:23:49:38 
+
+ Batch 1098 started. Time:23:49:38 completed Time:23:49:39 
+
+ Batch 1099 started. Time:23:49:39 completed Time:23:49:39 
+
+ Batch 1100 started. Time:23:49:40 completed Time:23:49:40 
+
+ Batch 1101 started. Time:23:49:40 completed Time:23:49:41 
+
+ Batch 1102 started. Time:23:49:41 completed Time:23:49:42 
+
+ Batch 1103 started. Time:23:49:42 completed Time:23:49:42 
+
+ Batch 1104 started. Time:23:49:42 completed Time:23:49:43 
+
+ Batch 1105 started. Time:23:49:43 completed Time:23:49:44 
+
+ Batch 1106 started. Time:23:50:00 completed Time:23:50:00 
+
+ Batch 1107 started. Time:23:50:18 completed Time:23:50:19 
+
+ Batch 1108 started. Time:23:50:19 completed Time:23:50:19 
+
+ Batch 1109 started. Time:23:50:20 completed Time:23:50:20 
+
+ Batch 1110 started. Time:23:50:20 completed Time:23:50:21 
+
+ Batch 1111 started. Time:23:50:24 completed Time:23:50:25 
+
+ Batch 1112 started. Time:23:50:25 completed Time:23:50:25 
+
+ Batch 1113 started. Time:23:50:25 completed Time:23:50:26 
+
+ Batch 1114 started. Time:23:50:26 completed Time:23:50:27 
+
+ Batch 1115 started. Time:23:50:27 completed Time:23:50:27 
+
+ Batch 1116 started. Time:23:50:27 completed Time:23:50:28 
+
+ Batch 1117 started. Time:23:50:28 completed Time:23:50:29 
+
+ Batch 1118 started. Time:23:50:29 completed Time:23:50:29 
+
+ Batch 1119 started. Time:23:50:29 completed Time:23:50:30 
+
+ Batch 1120 started. Time:23:50:45 completed Time:23:50:46 
+
+ Batch 1121 started. Time:23:51:05 completed Time:23:51:06 
+
+ Batch 1122 started. Time:23:51:06 completed Time:23:51:06 
+
+ Batch 1123 started. Time:23:51:07 completed Time:23:51:07 
+
+ Batch 1124 started. Time:23:51:07 completed Time:23:51:08 
+
+ Batch 1125 started. Time:23:51:11 completed Time:23:51:12 
+
+ Batch 1126 started. Time:23:51:12 completed Time:23:51:12 
+
+ Batch 1127 started. Time:23:51:12 completed Time:23:51:13 
+
+ Batch 1128 started. Time:23:51:13 completed Time:23:51:14 
+
+ Batch 1129 started. Time:23:51:14 completed Time:23:51:14 
+
+ Batch 1130 started. Time:23:51:14 completed Time:23:51:15 
+
+ Batch 1131 started. Time:23:51:15 completed Time:23:51:16 
+
+ Batch 1132 started. Time:23:51:16 completed Time:23:51:16 
+
+ Batch 1133 started. Time:23:51:17 completed Time:23:51:17 
+
+ Batch 1134 started. Time:23:51:32 completed Time:23:51:34 
+
+ Batch 1135 started. Time:23:51:53 completed Time:23:51:53 
+
+ Batch 1136 started. Time:23:51:53 completed Time:23:51:54 
+
+ Batch 1137 started. Time:23:51:54 completed Time:23:51:55 
+
+ Batch 1138 started. Time:23:51:55 completed Time:23:51:55 
+
+ Batch 1139 started. Time:23:51:58 completed Time:23:51:59 
+
+ Batch 1140 started. Time:23:51:59 completed Time:23:52:00 
+
+ Batch 1141 started. Time:23:52:00 completed Time:23:52:00 
+
+ Batch 1142 started. Time:23:52:01 completed Time:23:52:01 
+
+ Batch 1143 started. Time:23:52:01 completed Time:23:52:02 
+
+ Batch 1144 started. Time:23:52:02 completed Time:23:52:03 
+
+ Batch 1145 started. Time:23:52:03 completed Time:23:52:03 
+
+ Batch 1146 started. Time:23:52:03 completed Time:23:52:04 
+
+ Batch 1147 started. Time:23:52:04 completed Time:23:52:05 
+
+ Batch 1148 started. Time:23:52:18 completed Time:23:52:18 
+
+ Batch 1149 started. Time:23:52:39 completed Time:23:52:40 
+
+ Batch 1150 started. Time:23:52:40 completed Time:23:52:40 
+
+ Batch 1151 started. Time:23:52:41 completed Time:23:52:41 
+
+ Batch 1152 started. Time:23:52:41 completed Time:23:52:42 
+
+ Batch 1153 started. Time:23:52:45 completed Time:23:52:46 
+
+ Batch 1154 started. Time:23:52:46 completed Time:23:52:47 
+
+ Batch 1155 started. Time:23:52:47 completed Time:23:52:47 
+
+ Batch 1156 started. Time:23:52:47 completed Time:23:52:48 
+
+ Batch 1157 started. Time:23:52:48 completed Time:23:52:49 
+
+ Batch 1158 started. Time:23:52:49 completed Time:23:52:49 
+
+ Batch 1159 started. Time:23:52:50 completed Time:23:52:50 
+
+ Batch 1160 started. Time:23:52:50 completed Time:23:52:51 
+
+ Batch 1161 started. Time:23:52:51 completed Time:23:52:52 
+
+ Batch 1162 started. Time:23:53:03 completed Time:23:53:04 
+
+ Batch 1163 started. Time:23:53:25 completed Time:23:53:26 
+
+ Batch 1164 started. Time:23:53:26 completed Time:23:53:26 
+
+ Batch 1165 started. Time:23:53:26 completed Time:23:53:27 
+
+ Batch 1166 started. Time:23:53:27 completed Time:23:53:28 
+
+ Batch 1167 started. Time:23:53:31 completed Time:23:53:31 
+
+ Batch 1168 started. Time:23:53:31 completed Time:23:53:32 
+
+ Batch 1169 started. Time:23:53:32 completed Time:23:53:33 
+
+ Batch 1170 started. Time:23:53:33 completed Time:23:53:33 
+
+ Batch 1171 started. Time:23:53:33 completed Time:23:53:34 
+
+ Batch 1172 started. Time:23:53:34 completed Time:23:53:35 
+
+ Batch 1173 started. Time:23:53:35 completed Time:23:53:35 
+
+ Batch 1174 started. Time:23:53:36 completed Time:23:53:36 
+
+ Batch 1175 started. Time:23:53:36 completed Time:23:53:37 
+
+ Batch 1176 started. Time:23:53:51 completed Time:23:53:52 
+
+ Batch 1177 started. Time:23:54:11 completed Time:23:54:11 
+
+ Batch 1178 started. Time:23:54:11 completed Time:23:54:12 
+
+ Batch 1179 started. Time:23:54:12 completed Time:23:54:13 
+
+ Batch 1180 started. Time:23:54:13 completed Time:23:54:13 
+
+ Batch 1181 started. Time:23:54:16 completed Time:23:54:16 
+
+ Batch 1182 started. Time:23:54:16 completed Time:23:54:17 
+
+ Batch 1183 started. Time:23:54:17 completed Time:23:54:18 
+
+ Batch 1184 started. Time:23:54:18 completed Time:23:54:18 
+
+ Batch 1185 started. Time:23:54:18 completed Time:23:54:19 
+
+ Batch 1186 started. Time:23:54:19 completed Time:23:54:20 
+
+ Batch 1187 started. Time:23:54:20 completed Time:23:54:20 
+
+ Batch 1188 started. Time:23:54:20 completed Time:23:54:21 
+
+ Batch 1189 started. Time:23:54:21 completed Time:23:54:22 
+
+ Batch 1190 started. Time:23:54:38 completed Time:23:54:38 
+
+ Batch 1191 started. Time:23:54:56 completed Time:23:54:57 
+
+ Batch 1192 started. Time:23:54:57 completed Time:23:54:57 
+
+ Batch 1193 started. Time:23:54:57 completed Time:23:54:58 
+
+ Batch 1194 started. Time:23:54:58 completed Time:23:54:59 
+
+ Batch 1195 started. Time:23:55:01 completed Time:23:55:01 
+
+ Batch 1196 started. Time:23:55:01 completed Time:23:55:02 
+
+ Batch 1197 started. Time:23:55:02 completed Time:23:55:03 
+
+ Batch 1198 started. Time:23:55:03 completed Time:23:55:03 
+
+ Batch 1199 started. Time:23:55:03 completed Time:23:55:04 
+
+ Batch 1200 started. Time:23:55:04 completed Time:23:55:05 
+
+ Batch 1201 started. Time:23:55:05 completed Time:23:55:06 
+
+ Batch 1202 started. Time:23:55:06 completed Time:23:55:06 
+
+ Batch 1203 started. Time:23:55:07 completed Time:23:55:07 
+
+ Batch 1204 started. Time:23:55:21 completed Time:23:55:21 
+
+ Batch 1205 started. Time:23:55:42 completed Time:23:55:43 
+
+ Batch 1206 started. Time:23:55:43 completed Time:23:55:43 
+
+ Batch 1207 started. Time:23:55:43 completed Time:23:55:44 
+
+ Batch 1208 started. Time:23:55:44 completed Time:23:55:45 
+
+ Batch 1209 started. Time:23:55:46 completed Time:23:55:46 
+
+ Batch 1210 started. Time:23:55:46 completed Time:23:55:47 
+
+ Batch 1211 started. Time:23:55:47 completed Time:23:55:48 
+
+ Batch 1212 started. Time:23:55:48 completed Time:23:55:48 
+
+ Batch 1213 started. Time:23:55:48 completed Time:23:55:49 
+
+ Batch 1214 started. Time:23:55:49 completed Time:23:55:50 
+
+ Batch 1215 started. Time:23:55:50 completed Time:23:55:50 
+
+ Batch 1216 started. Time:23:55:50 completed Time:23:55:51 
+
+ Batch 1217 started. Time:23:55:51 completed Time:23:55:52 
+
+ Batch 1218 started. Time:23:56:08 completed Time:23:56:09 
+
+ Batch 1219 started. Time:23:56:32 completed Time:23:56:32 
+
+ Batch 1220 started. Time:23:56:32 completed Time:23:56:33 
+
+ Batch 1221 started. Time:23:56:33 completed Time:23:56:34 
+
+ Batch 1222 started. Time:23:56:34 completed Time:23:56:34 
+
+ Batch 1223 started. Time:23:56:36 completed Time:23:56:36 
+
+ Batch 1224 started. Time:23:56:36 completed Time:23:56:37 
+
+ Batch 1225 started. Time:23:56:37 completed Time:23:56:38 
+
+ Batch 1226 started. Time:23:56:38 completed Time:23:56:38 
+
+ Batch 1227 started. Time:23:56:38 completed Time:23:56:39 
+
+ Batch 1228 started. Time:23:56:39 completed Time:23:56:40 
+
+ Batch 1229 started. Time:23:56:40 completed Time:23:56:40 
+
+ Batch 1230 started. Time:23:56:40 completed Time:23:56:41 
+
+ Batch 1231 started. Time:23:56:41 completed Time:23:56:42 
+
+ Batch 1232 started. Time:23:56:56 completed Time:23:56:57 
+
+ Batch 1233 started. Time:23:57:20 completed Time:23:57:21 
+
+ Batch 1234 started. Time:23:57:21 completed Time:23:57:22 
+
+ Batch 1235 started. Time:23:57:22 completed Time:23:57:22 
+
+ Batch 1236 started. Time:23:57:22 completed Time:23:57:23 
+
+ Batch 1237 started. Time:23:57:23 completed Time:23:57:24 
+
+ Batch 1238 started. Time:23:57:24 completed Time:23:57:24 
+
+ Batch 1239 started. Time:23:57:24 completed Time:23:57:25 
+
+ Batch 1240 started. Time:23:57:25 completed Time:23:57:26 
+
+ Batch 1241 started. Time:23:57:26 completed Time:23:57:26 
+
+ Batch 1242 started. Time:23:57:27 completed Time:23:57:27 
+
+ Batch 1243 started. Time:23:57:27 completed Time:23:57:28 
+
+ Batch 1244 started. Time:23:57:28 completed Time:23:57:29 
+
+ Batch 1245 started. Time:23:57:29 completed Time:23:57:29 
+
+ Batch 1246 started. Time:23:57:44 completed Time:23:57:45 
+
+ Batch 1247 started. Time:23:58:10 completed Time:23:58:11 
+
+ Batch 1248 started. Time:23:58:11 completed Time:23:58:11 
+
+ Batch 1249 started. Time:23:58:11 completed Time:23:58:12 
+
+ Batch 1250 started. Time:23:58:12 completed Time:23:58:13 
+
+ Batch 1251 started. Time:23:58:13 completed Time:23:58:13 
+
+ Batch 1252 started. Time:23:58:13 completed Time:23:58:14 
+
+ Batch 1253 started. Time:23:58:14 completed Time:23:58:15 
+
+ Batch 1254 started. Time:23:58:15 completed Time:23:58:16 
+
+ Batch 1255 started. Time:23:58:16 completed Time:23:58:16 
+
+ Batch 1256 started. Time:23:58:16 completed Time:23:58:17 
+
+ Batch 1257 started. Time:23:58:17 completed Time:23:58:18 
+
+ Batch 1258 started. Time:23:58:18 completed Time:23:58:18 
+
+ Batch 1259 started. Time:23:58:18 completed Time:23:58:19 
+
+ Batch 1260 started. Time:23:58:31 completed Time:23:58:32 
+
+ Batch 1261 started. Time:23:58:55 completed Time:23:58:56 
+
+ Batch 1262 started. Time:23:58:56 completed Time:23:58:57 
+
+ Batch 1263 started. Time:23:58:57 completed Time:23:58:57 
+
+ Batch 1264 started. Time:23:58:58 completed Time:23:58:58 
+
+ Batch 1265 started. Time:23:58:58 completed Time:23:58:59 
+
+ Batch 1266 started. Time:23:58:59 completed Time:23:59:00 
+
+ Batch 1267 started. Time:23:59:00 completed Time:23:59:00 
+
+ Batch 1268 started. Time:23:59:00 completed Time:23:59:01 
+
+ Batch 1269 started. Time:23:59:01 completed Time:23:59:02 
+
+ Batch 1270 started. Time:23:59:02 completed Time:23:59:02 
+
+ Batch 1271 started. Time:23:59:02 completed Time:23:59:03 
+
+ Batch 1272 started. Time:23:59:03 completed Time:23:59:04 
+
+ Batch 1273 started. Time:23:59:04 completed Time:23:59:04 
+
+ Batch 1274 started. Time:23:59:17 completed Time:23:59:18 
+
+ Batch 1275 started. Time:23:59:41 completed Time:23:59:42 
+
+ Batch 1276 started. Time:23:59:42 completed Time:23:59:43 
+
+ Batch 1277 started. Time:23:59:43 completed Time:23:59:43 
+
+ Batch 1278 started. Time:23:59:43 completed Time:23:59:44 
+
+ Batch 1279 started. Time:23:59:45 completed Time:23:59:46 
+
+ Batch 1280 started. Time:23:59:46 completed Time:23:59:47 
+
+ Batch 1281 started. Time:23:59:47 completed Time:23:59:47 
+
+ Batch 1282 started. Time:23:59:47 completed Time:23:59:48 
+
+ Batch 1283 started. Time:23:59:48 completed Time:23:59:49 
+
+ Batch 1284 started. Time:23:59:49 completed Time:23:59:50 
+
+ Batch 1285 started. Time:23:59:50 completed Time:23:59:50 
+
+ Batch 1286 started. Time:23:59:50 completed Time:23:59:51 
+
+ Batch 1287 started. Time:23:59:51 completed Time:23:59:52 
+
+ Batch 1288 started. Time:00:00:07 completed Time:00:00:08 
+
+ Batch 1289 started. Time:00:00:29 completed Time:00:00:29 
+
+ Batch 1290 started. Time:00:00:29 completed Time:00:00:30 
+
+ Batch 1291 started. Time:00:00:30 completed Time:00:00:31 
+
+ Batch 1292 started. Time:00:00:31 completed Time:00:00:31 
+
+ Batch 1293 started. Time:00:00:34 completed Time:00:00:34 
+
+ Batch 1294 started. Time:00:00:35 completed Time:00:00:35 
+
+ Batch 1295 started. Time:00:00:35 completed Time:00:00:36 
+
+ Batch 1296 started. Time:00:00:36 completed Time:00:00:37 
+
+ Batch 1297 started. Time:00:00:37 completed Time:00:00:37 
+
+ Batch 1298 started. Time:00:00:38 completed Time:00:00:39 
+
+ Batch 1299 started. Time:00:00:39 completed Time:00:00:39 
+
+ Batch 1300 started. Time:00:00:40 completed Time:00:00:40 
+
+ Batch 1301 started. Time:00:00:40 completed Time:00:00:41 
+
+ Batch 1302 started. Time:00:00:54 completed Time:00:00:54 
+
+ Batch 1303 started. Time:00:01:14 completed Time:00:01:15 
+
+ Batch 1304 started. Time:00:01:15 completed Time:00:01:16 
+
+ Batch 1305 started. Time:00:01:16 completed Time:00:01:16 
+
+ Batch 1306 started. Time:00:01:16 completed Time:00:01:17 
+
+ Batch 1307 started. Time:00:01:19 completed Time:00:01:20 
+
+ Batch 1308 started. Time:00:01:20 completed Time:00:01:21 
+
+ Batch 1309 started. Time:00:01:21 completed Time:00:01:21 
+
+ Batch 1310 started. Time:00:01:21 completed Time:00:01:22 
+
+ Batch 1311 started. Time:00:01:22 completed Time:00:01:23 
+
+ Batch 1312 started. Time:00:01:25 completed Time:00:01:26 
+
+ Batch 1313 started. Time:00:01:26 completed Time:00:01:26 
+
+ Batch 1314 started. Time:00:01:26 completed Time:00:01:27 
+
+ Batch 1315 started. Time:00:01:27 completed Time:00:01:28 
+
+ Batch 1316 started. Time:00:01:41 completed Time:00:01:42 
+
+ Batch 1317 started. Time:00:02:03 completed Time:00:02:04 
+
+ Batch 1318 started. Time:00:02:04 completed Time:00:02:05 
+
+ Batch 1319 started. Time:00:02:05 completed Time:00:02:05 
+
+ Batch 1320 started. Time:00:02:05 completed Time:00:02:06 
+
+ Batch 1321 started. Time:00:02:09 completed Time:00:02:10 
+
+ Batch 1322 started. Time:00:02:10 completed Time:00:02:10 
+
+ Batch 1323 started. Time:00:02:10 completed Time:00:02:11 
+
+ Batch 1324 started. Time:00:02:11 completed Time:00:02:12 
+
+ Batch 1325 started. Time:00:02:12 completed Time:00:02:12 
+
+ Batch 1326 started. Time:00:02:14 completed Time:00:02:14 
+
+ Batch 1327 started. Time:00:02:14 completed Time:00:02:15 
+
+ Batch 1328 started. Time:00:02:15 completed Time:00:02:16 
+
+ Batch 1329 started. Time:00:02:16 completed Time:00:02:16 
+
+ Batch 1330 started. Time:00:02:30 completed Time:00:02:30 
+
+ Batch 1331 started. Time:00:02:53 completed Time:00:02:54 
+
+ Batch 1332 started. Time:00:02:54 completed Time:00:02:54 
+
+ Batch 1333 started. Time:00:02:55 completed Time:00:02:55 
+
+ Batch 1334 started. Time:00:02:55 completed Time:00:02:56 
+
+ Batch 1335 started. Time:00:02:57 completed Time:00:02:58 
+
+ Batch 1336 started. Time:00:02:58 completed Time:00:02:59 
+
+ Batch 1337 started. Time:00:02:59 completed Time:00:02:59 
+
+ Batch 1338 started. Time:00:03:00 completed Time:00:03:00 
+
+ Batch 1339 started. Time:00:03:00 completed Time:00:03:01 
+
+ Batch 1340 started. Time:00:03:04 completed Time:00:03:04 
+
+ Batch 1341 started. Time:00:03:05 completed Time:00:03:05 
+
+ Batch 1342 started. Time:00:03:05 completed Time:00:03:06 
+
+ Batch 1343 started. Time:00:03:06 completed Time:00:03:07 
+
+ Batch 1344 started. Time:00:03:20 completed Time:00:03:20 
+
+ Batch 1345 started. Time:00:03:39 completed Time:00:03:39 
+
+ Batch 1346 started. Time:00:03:39 completed Time:00:03:40 
+
+ Batch 1347 started. Time:00:03:40 completed Time:00:03:41 
+
+ Batch 1348 started. Time:00:03:41 completed Time:00:03:41 
+
+ Batch 1349 started. Time:00:03:43 completed Time:00:03:43 
+
+ Batch 1350 started. Time:00:03:43 completed Time:00:03:44 
+
+ Batch 1351 started. Time:00:03:44 completed Time:00:03:45 
+
+ Batch 1352 started. Time:00:03:45 completed Time:00:03:45 
+
+ Batch 1353 started. Time:00:03:45 completed Time:00:03:46 
+
+ Batch 1354 started. Time:00:03:49 completed Time:00:03:49 
+
+ Batch 1355 started. Time:00:03:49 completed Time:00:03:50 
+
+ Batch 1356 started. Time:00:03:50 completed Time:00:03:51 
+
+ Batch 1357 started. Time:00:03:51 completed Time:00:03:51 
+
+ Batch 1358 started. Time:00:04:07 completed Time:00:04:07 
+
+ Batch 1359 started. Time:00:04:23 completed Time:00:04:24 
+
+ Batch 1360 started. Time:00:04:24 completed Time:00:04:25 
+
+ Batch 1361 started. Time:00:04:25 completed Time:00:04:26 
+
+ Batch 1362 started. Time:00:04:26 completed Time:00:04:26 
+
+ Batch 1363 started. Time:00:04:27 completed Time:00:04:27 
+
+ Batch 1364 started. Time:00:04:27 completed Time:00:04:28 
+
+ Batch 1365 started. Time:00:04:28 completed Time:00:04:29 
+
+ Batch 1366 started. Time:00:04:29 completed Time:00:04:29 
+
+ Batch 1367 started. Time:00:04:29 completed Time:00:04:30 
+
+ Batch 1368 started. Time:00:04:36 completed Time:00:04:37 
+
+ Batch 1369 started. Time:00:04:37 completed Time:00:04:38 
+
+ Batch 1370 started. Time:00:04:38 completed Time:00:04:38 
+
+ Batch 1371 started. Time:00:04:38 completed Time:00:04:39 
+
+ Batch 1372 started. Time:00:04:55 completed Time:00:04:56 
+
+ Batch 1373 started. Time:00:05:13 completed Time:00:05:14 
+
+ Batch 1374 started. Time:00:05:14 completed Time:00:05:15 
+
+ Batch 1375 started. Time:00:05:15 completed Time:00:05:15 
+
+ Batch 1376 started. Time:00:05:15 completed Time:00:05:16 
+
+ Batch 1377 started. Time:00:05:16 completed Time:00:05:17 
+
+ Batch 1378 started. Time:00:05:17 completed Time:00:05:17 
+
+ Batch 1379 started. Time:00:05:17 completed Time:00:05:18 
+
+ Batch 1380 started. Time:00:05:18 completed Time:00:05:19 
+
+ Batch 1381 started. Time:00:05:19 completed Time:00:05:19 
+
+ Batch 1382 started. Time:00:05:27 completed Time:00:05:27 
+
+ Batch 1383 started. Time:00:05:27 completed Time:00:05:28 
+
+ Batch 1384 started. Time:00:05:28 completed Time:00:05:29 
+
+ Batch 1385 started. Time:00:05:29 completed Time:00:05:29 
+
+ Batch 1386 started. Time:00:05:41 completed Time:00:05:41 
+
+ Batch 1387 started. Time:00:06:03 completed Time:00:06:03 
+
+ Batch 1388 started. Time:00:06:03 completed Time:00:06:04 
+
+ Batch 1389 started. Time:00:06:04 completed Time:00:06:05 
+
+ Batch 1390 started. Time:00:06:05 completed Time:00:06:05 
+
+ Batch 1391 started. Time:00:06:05 completed Time:00:06:06 
+
+ Batch 1392 started. Time:00:06:06 completed Time:00:06:07 
+
+ Batch 1393 started. Time:00:06:07 completed Time:00:06:07 
+
+ Batch 1394 started. Time:00:06:07 completed Time:00:06:08 
+
+ Batch 1395 started. Time:00:06:08 completed Time:00:06:09 
+
+ Batch 1396 started. Time:00:06:14 completed Time:00:06:14 
+
+ Batch 1397 started. Time:00:06:14 completed Time:00:06:15 
+
+ Batch 1398 started. Time:00:06:15 completed Time:00:06:16 
+
+ Batch 1399 started. Time:00:06:16 completed Time:00:06:16 
+
+ Batch 1400 started. Time:00:06:28 completed Time:00:06:29 
+
+ Batch 1401 started. Time:00:06:50 completed Time:00:06:50 
+
+ Batch 1402 started. Time:00:06:50 completed Time:00:06:51 
+
+ Batch 1403 started. Time:00:06:51 completed Time:00:06:52 
+
+ Batch 1404 started. Time:00:06:52 completed Time:00:06:52 
+
+ Batch 1405 started. Time:00:06:52 completed Time:00:06:53 
+
+ Batch 1406 started. Time:00:06:53 completed Time:00:06:54 
+
+ Batch 1407 started. Time:00:06:54 completed Time:00:06:54 
+
+ Batch 1408 started. Time:00:06:54 completed Time:00:06:55 
+
+ Batch 1409 started. Time:00:06:55 completed Time:00:06:56 
+
+ Batch 1410 started. Time:00:07:00 completed Time:00:07:00 
+
+ Batch 1411 started. Time:00:07:00 completed Time:00:07:01 
+
+ Batch 1412 started. Time:00:07:01 completed Time:00:07:02 
+
+ Batch 1413 started. Time:00:07:02 completed Time:00:07:02 
+
+ Batch 1414 started. Time:00:07:16 completed Time:00:07:17 
+
+ Batch 1415 started. Time:00:07:37 completed Time:00:07:38 
+
+ Batch 1416 started. Time:00:07:38 completed Time:00:07:38 
+
+ Batch 1417 started. Time:00:07:39 completed Time:00:07:39 
+
+ Batch 1418 started. Time:00:07:39 completed Time:00:07:40 
+
+ Batch 1419 started. Time:00:07:40 completed Time:00:07:41 
+
+ Batch 1420 started. Time:00:07:41 completed Time:00:07:41 
+
+ Batch 1421 started. Time:00:07:41 completed Time:00:07:42 
+
+ Batch 1422 started. Time:00:07:42 completed Time:00:07:43 
+
+ Batch 1423 started. Time:00:07:43 completed Time:00:07:43 
+
+ Batch 1424 started. Time:00:07:47 completed Time:00:07:47 
+
+ Batch 1425 started. Time:00:07:47 completed Time:00:07:48 
+
+ Batch 1426 started. Time:00:07:48 completed Time:00:07:49 
+
+ Batch 1427 started. Time:00:07:49 completed Time:00:07:49 
+
+ Batch 1428 started. Time:00:08:03 completed Time:00:08:04 
+
+ Batch 1429 started. Time:00:08:24 completed Time:00:08:25 
+
+ Batch 1430 started. Time:00:08:25 completed Time:00:08:25 
+
+ Batch 1431 started. Time:00:08:26 completed Time:00:08:26 
+
+ Batch 1432 started. Time:00:08:26 completed Time:00:08:27 
+
+ Batch 1433 started. Time:00:08:27 completed Time:00:08:28 
+
+ Batch 1434 started. Time:00:08:28 completed Time:00:08:28 
+
+ Batch 1435 started. Time:00:08:28 completed Time:00:08:29 
+
+ Batch 1436 started. Time:00:08:29 completed Time:00:08:30 
+
+ Batch 1437 started. Time:00:08:30 completed Time:00:08:30 
+
+ Batch 1438 started. Time:00:08:34 completed Time:00:08:35 
+
+ Batch 1439 started. Time:00:08:35 completed Time:00:08:36 
+
+ Batch 1440 started. Time:00:08:36 completed Time:00:08:36 
+
+ Batch 1441 started. Time:00:08:36 completed Time:00:08:37 
+
+ Batch 1442 started. Time:00:08:49 completed Time:00:08:50 
+
+ Batch 1443 started. Time:00:09:11 completed Time:00:09:12 
+
+ Batch 1444 started. Time:00:09:15 completed Time:00:09:15 
+
+ Batch 1445 started. Time:00:09:16 completed Time:00:09:17 
+
+ Batch 1446 started. Time:00:09:17 completed Time:00:09:17 
+
+ Batch 1447 started. Time:00:09:17 completed Time:00:09:18 
+
+ Batch 1448 started. Time:00:09:18 completed Time:00:09:19 
+
+ Batch 1449 started. Time:00:09:19 completed Time:00:09:19 
+
+ Batch 1450 started. Time:00:09:19 completed Time:00:09:20 
+
+ Batch 1451 started. Time:00:09:20 completed Time:00:09:21 
+
+ Batch 1452 started. Time:00:09:24 completed Time:00:09:25 
+
+ Batch 1453 started. Time:00:09:25 completed Time:00:09:26 
+
+ Batch 1454 started. Time:00:09:26 completed Time:00:09:26 
+
+ Batch 1455 started. Time:00:09:27 completed Time:00:09:27 
+
+ Batch 1456 started. Time:00:09:40 completed Time:00:09:40 
+
+ Batch 1457 started. Time:00:10:01 completed Time:00:10:01 
+
+ Batch 1458 started. Time:00:10:05 completed Time:00:10:06 
+
+ Batch 1459 started. Time:00:10:06 completed Time:00:10:07 
+
+ Batch 1460 started. Time:00:10:07 completed Time:00:10:07 
+
+ Batch 1461 started. Time:00:10:07 completed Time:00:10:08 
+
+ Batch 1462 started. Time:00:10:08 completed Time:00:10:09 
+
+ Batch 1463 started. Time:00:10:09 completed Time:00:10:09 
+
+ Batch 1464 started. Time:00:10:10 completed Time:00:10:10 
+
+ Batch 1465 started. Time:00:10:10 completed Time:00:10:11 
+
+ Batch 1466 started. Time:00:10:14 completed Time:00:10:14 
+
+ Batch 1467 started. Time:00:10:15 completed Time:00:10:15 
+
+ Batch 1468 started. Time:00:10:15 completed Time:00:10:16 
+
+ Batch 1469 started. Time:00:10:16 completed Time:00:10:17 
+
+ Batch 1470 started. Time:00:10:28 completed Time:00:10:29 
+
+ Batch 1471 started. Time:00:10:48 completed Time:00:10:49 
+
+ Batch 1472 started. Time:00:10:53 completed Time:00:10:54 
+
+ Batch 1473 started. Time:00:10:54 completed Time:00:10:55 
+
+ Batch 1474 started. Time:00:10:55 completed Time:00:10:55 
+
+ Batch 1475 started. Time:00:10:55 completed Time:00:10:56 
+
+ Batch 1476 started. Time:00:10:56 completed Time:00:10:57 
+
+ Batch 1477 started. Time:00:10:57 completed Time:00:10:57 
+
+ Batch 1478 started. Time:00:10:57 completed Time:00:10:58 
+
+ Batch 1479 started. Time:00:10:58 completed Time:00:10:59 
+
+ Batch 1480 started. Time:00:11:01 completed Time:00:11:02 
+
+ Batch 1481 started. Time:00:11:02 completed Time:00:11:03 
+
+ Batch 1482 started. Time:00:11:03 completed Time:00:11:03 
+
+ Batch 1483 started. Time:00:11:04 completed Time:00:11:04 
+
+ Batch 1484 started. Time:00:11:18 completed Time:00:11:18 
+
+ Batch 1485 started. Time:00:11:38 completed Time:00:11:39 
+
+ Batch 1486 started. Time:00:11:42 completed Time:00:11:42 
+
+ Batch 1487 started. Time:00:11:42 completed Time:00:11:43 
+
+ Batch 1488 started. Time:00:11:43 completed Time:00:11:44 
+
+ Batch 1489 started. Time:00:11:44 completed Time:00:11:44 
+
+ Batch 1490 started. Time:00:11:44 completed Time:00:11:45 
+
+ Batch 1491 started. Time:00:11:45 completed Time:00:11:46 
+
+ Batch 1492 started. Time:00:11:46 completed Time:00:11:46 
+
+ Batch 1493 started. Time:00:11:46 completed Time:00:11:47 
+
+ Batch 1494 started. Time:00:11:51 completed Time:00:11:52 
+
+ Batch 1495 started. Time:00:11:52 completed Time:00:11:58 
+
+ Batch 1496 started. Time:00:11:58 completed Time:00:11:59 
+
+ Batch 1497 started. Time:00:11:59 completed Time:00:12:00 
+
+ Batch 1498 started. Time:00:12:07 completed Time:00:12:07 
+
+ Batch 1499 started. Time:00:12:25 completed Time:00:12:26 
+
+ Batch 1500 started. Time:00:12:29 completed Time:00:12:30 
+
+ Batch 1501 started. Time:00:12:30 completed Time:00:12:30 
+
+ Batch 1502 started. Time:00:12:30 completed Time:00:12:31 
+
+ Batch 1503 started. Time:00:12:31 completed Time:00:12:32 
+
+ Batch 1504 started. Time:00:12:32 completed Time:00:12:32 
+
+ Batch 1505 started. Time:00:12:32 completed Time:00:12:33 
+
+ Batch 1506 started. Time:00:12:33 completed Time:00:12:34 
+
+ Batch 1507 started. Time:00:12:34 completed Time:00:12:34 
+
+ Batch 1508 started. Time:00:12:38 completed Time:00:12:38 
+
+ Batch 1509 started. Time:00:12:38 completed Time:00:12:39 
+
+ Batch 1510 started. Time:00:12:39 completed Time:00:12:40 
+
+ Batch 1511 started. Time:00:12:40 completed Time:00:12:41 
+
+ Batch 1512 started. Time:00:12:54 completed Time:00:12:54 
+
+ Batch 1513 started. Time:00:13:12 completed Time:00:13:13 
+
+ Batch 1514 started. Time:00:13:14 completed Time:00:13:15 
+
+ Batch 1515 started. Time:00:13:15 completed Time:00:13:15 
+
+ Batch 1516 started. Time:00:13:15 completed Time:00:13:16 
+
+ Batch 1517 started. Time:00:13:16 completed Time:00:13:17 
+
+ Batch 1518 started. Time:00:13:17 completed Time:00:13:17 
+
+ Batch 1519 started. Time:00:13:17 completed Time:00:13:18 
+
+ Batch 1520 started. Time:00:13:18 completed Time:00:13:19 
+
+ Batch 1521 started. Time:00:13:19 completed Time:00:13:19 
+
+ Batch 1522 started. Time:00:13:24 completed Time:00:13:25 
+
+ Batch 1523 started. Time:00:13:25 completed Time:00:13:25 
+
+ Batch 1524 started. Time:00:13:25 completed Time:00:13:26 
+
+ Batch 1525 started. Time:00:13:26 completed Time:00:13:27 
+
+ Batch 1526 started. Time:00:13:41 completed Time:00:13:42 
+
+ Batch 1527 started. Time:00:13:59 completed Time:00:13:59 
+
+ Batch 1528 started. Time:00:14:03 completed Time:00:14:04 
+
+ Batch 1529 started. Time:00:14:04 completed Time:00:14:04 
+
+ Batch 1530 started. Time:00:14:05 completed Time:00:14:05 
+
+ Batch 1531 started. Time:00:14:05 completed Time:00:14:06 
+
+ Batch 1532 started. Time:00:14:06 completed Time:00:14:07 
+
+ Batch 1533 started. Time:00:14:07 completed Time:00:14:07 
+
+ Batch 1534 started. Time:00:14:07 completed Time:00:14:08 
+
+ Batch 1535 started. Time:00:14:08 completed Time:00:14:09 
+
+ Batch 1536 started. Time:00:14:15 completed Time:00:14:15 
+
+ Batch 1537 started. Time:00:14:15 completed Time:00:14:16 
+
+ Batch 1538 started. Time:00:14:16 completed Time:00:14:17 
+
+ Batch 1539 started. Time:00:14:17 completed Time:00:14:17 
+
+ Batch 1540 started. Time:00:14:30 completed Time:00:14:30 
+
+ Batch 1541 started. Time:00:14:48 completed Time:00:14:48 
+
+ Batch 1542 started. Time:00:14:52 completed Time:00:14:52 
+
+ Batch 1543 started. Time:00:14:52 completed Time:00:14:53 
+
+ Batch 1544 started. Time:00:14:53 completed Time:00:14:54 
+
+ Batch 1545 started. Time:00:14:54 completed Time:00:14:54 
+
+ Batch 1546 started. Time:00:14:54 completed Time:00:14:55 
+
+ Batch 1547 started. Time:00:14:55 completed Time:00:14:56 
+
+ Batch 1548 started. Time:00:14:56 completed Time:00:14:57 
+
+ Batch 1549 started. Time:00:14:57 completed Time:00:14:57 
+
+ Batch 1550 started. Time:00:15:05 completed Time:00:15:05 
+
+ Batch 1551 started. Time:00:15:05 completed Time:00:15:06 
+
+ Batch 1552 started. Time:00:15:06 completed Time:00:15:07 
+
+ Batch 1553 started. Time:00:15:07 completed Time:00:15:07 
+
+ Batch 1554 started. Time:00:15:20 completed Time:00:15:20 
+
+ Batch 1555 started. Time:00:15:36 completed Time:00:15:37 
+
+ Batch 1556 started. Time:00:15:39 completed Time:00:15:39 
+
+ Batch 1557 started. Time:00:15:40 completed Time:00:15:40 
+
+ Batch 1558 started. Time:00:15:40 completed Time:00:15:41 
+
+ Batch 1559 started. Time:00:15:41 completed Time:00:15:41 
+
+ Batch 1560 started. Time:00:15:42 completed Time:00:15:42 
+
+ Batch 1561 started. Time:00:15:44 completed Time:00:15:44 
+
+ Batch 1562 started. Time:00:15:44 completed Time:00:15:45 
+
+ Batch 1563 started. Time:00:15:45 completed Time:00:15:46 
+
+ Batch 1564 started. Time:00:15:53 completed Time:00:15:53 
+
+ Batch 1565 started. Time:00:15:53 completed Time:00:15:54 
+
+ Batch 1566 started. Time:00:15:54 completed Time:00:15:55 
+
+ Batch 1567 started. Time:00:15:55 completed Time:00:15:55 
+
+ Batch 1568 started. Time:00:16:08 completed Time:00:16:09 
+
+ Batch 1569 started. Time:00:16:23 completed Time:00:16:24 
+
+ Batch 1570 started. Time:00:16:29 completed Time:00:16:30 
+
+ Batch 1571 started. Time:00:16:30 completed Time:00:16:30 
+
+ Batch 1572 started. Time:00:16:30 completed Time:00:16:31 
+
+ Batch 1573 started. Time:00:16:31 completed Time:00:16:32 
+
+ Batch 1574 started. Time:00:16:32 completed Time:00:16:32 
+
+ Batch 1575 started. Time:00:16:33 completed Time:00:16:33 
+
+ Batch 1576 started. Time:00:16:33 completed Time:00:16:34 
+
+ Batch 1577 started. Time:00:16:34 completed Time:00:16:35 
+
+ Batch 1578 started. Time:00:16:40 completed Time:00:16:41 
+
+ Batch 1579 started. Time:00:16:41 completed Time:00:16:41 
+
+ Batch 1580 started. Time:00:16:42 completed Time:00:16:42 
+
+ Batch 1581 started. Time:00:16:42 completed Time:00:16:43 
+
+ Batch 1582 started. Time:00:16:54 completed Time:00:16:54 
+
+ Batch 1583 started. Time:00:17:09 completed Time:00:17:09 
+
+ Batch 1584 started. Time:00:17:14 completed Time:00:17:15 
+
+ Batch 1585 started. Time:00:17:15 completed Time:00:17:15 
+
+ Batch 1586 started. Time:00:17:15 completed Time:00:17:16 
+
+ Batch 1587 started. Time:00:17:16 completed Time:00:17:17 
+
+ Batch 1588 started. Time:00:17:17 completed Time:00:17:17 
+
+ Batch 1589 started. Time:00:17:19 completed Time:00:17:19 
+
+ Batch 1590 started. Time:00:17:19 completed Time:00:17:20 
+
+ Batch 1591 started. Time:00:17:20 completed Time:00:17:21 
+
+ Batch 1592 started. Time:00:17:24 completed Time:00:17:25 
+
+ Batch 1593 started. Time:00:17:25 completed Time:00:17:25 
+
+ Batch 1594 started. Time:00:17:26 completed Time:00:17:26 
+
+ Batch 1595 started. Time:00:17:26 completed Time:00:17:27 
+
+ Batch 1596 started. Time:00:17:41 completed Time:00:17:41 
+
+ Batch 1597 started. Time:00:17:53 completed Time:00:17:54 
+
+ Batch 1598 started. Time:00:18:00 completed Time:00:18:00 
+
+ Batch 1599 started. Time:00:18:00 completed Time:00:18:01 
+
+ Batch 1600 started. Time:00:18:01 completed Time:00:18:02 
+
+ Batch 1601 started. Time:00:18:02 completed Time:00:18:03 
+
+ Batch 1602 started. Time:00:18:03 completed Time:00:18:03 
+
+ Batch 1603 started. Time:00:18:04 completed Time:00:18:05 
+
+ Batch 1604 started. Time:00:18:05 completed Time:00:18:06 
+
+ Batch 1605 started. Time:00:18:06 completed Time:00:18:06 
+
+ Batch 1606 started. Time:00:18:11 completed Time:00:18:12 
+
+ Batch 1607 started. Time:00:18:12 completed Time:00:18:12 
+
+ Batch 1608 started. Time:00:18:12 completed Time:00:18:13 
+
+ Batch 1609 started. Time:00:18:13 completed Time:00:18:14 
+
+ Batch 1610 started. Time:00:18:30 completed Time:00:18:30 
+
+ Batch 1611 started. Time:00:18:42 completed Time:00:18:42 
+
+ Batch 1612 started. Time:00:18:48 completed Time:00:18:49 
+
+ Batch 1613 started. Time:00:18:49 completed Time:00:18:50 
+
+ Batch 1614 started. Time:00:18:50 completed Time:00:18:50 
+
+ Batch 1615 started. Time:00:18:51 completed Time:00:18:51 
+
+ Batch 1616 started. Time:00:18:51 completed Time:00:18:52 
+
+ Batch 1617 started. Time:00:18:52 completed Time:00:18:53 
+
+ Batch 1618 started. Time:00:18:53 completed Time:00:18:53 
+
+ Batch 1619 started. Time:00:18:53 completed Time:00:18:54 
+
+ Batch 1620 started. Time:00:19:02 completed Time:00:19:03 
+
+ Batch 1621 started. Time:00:19:03 completed Time:00:19:03 
+
+ Batch 1622 started. Time:00:19:03 completed Time:00:19:04 
+
+ Batch 1623 started. Time:00:19:04 completed Time:00:19:05 
+
+ Batch 1624 started. Time:00:19:16 completed Time:00:19:16 
+
+ Batch 1625 started. Time:00:19:30 completed Time:00:19:31 
+
+ Batch 1626 started. Time:00:19:37 completed Time:00:19:37 
+
+ Batch 1627 started. Time:00:19:37 completed Time:00:19:38 
+
+ Batch 1628 started. Time:00:19:38 completed Time:00:19:39 
+
+ Batch 1629 started. Time:00:19:39 completed Time:00:19:39 
+
+ Batch 1630 started. Time:00:19:39 completed Time:00:19:40 
+
+ Batch 1631 started. Time:00:19:41 completed Time:00:19:41 
+
+ Batch 1632 started. Time:00:19:41 completed Time:00:19:42 
+
+ Batch 1633 started. Time:00:19:42 completed Time:00:19:43 
+
+ Batch 1634 started. Time:00:19:52 completed Time:00:19:53 
+
+ Batch 1635 started. Time:00:19:53 completed Time:00:19:53 
+
+ Batch 1636 started. Time:00:19:53 completed Time:00:19:54 
+
+ Batch 1637 started. Time:00:19:54 completed Time:00:19:55 
+
+ Batch 1638 started. Time:00:20:03 completed Time:00:20:03 
+
+ Batch 1639 started. Time:00:20:16 completed Time:00:20:16 
+
+ Batch 1640 started. Time:00:20:23 completed Time:00:20:23 
+
+ Batch 1641 started. Time:00:20:23 completed Time:00:20:24 
+
+ Batch 1642 started. Time:00:20:24 completed Time:00:20:25 
+
+ Batch 1643 started. Time:00:20:25 completed Time:00:20:26 
+
+ Batch 1644 started. Time:00:20:26 completed Time:00:20:27 
+
+ Batch 1645 started. Time:00:20:28 completed Time:00:20:28 
+
+ Batch 1646 started. Time:00:20:29 completed Time:00:20:29 
+
+ Batch 1647 started. Time:00:20:29 completed Time:00:20:30 
+
+ Batch 1648 started. Time:00:20:39 completed Time:00:20:39 
+
+ Batch 1649 started. Time:00:20:39 completed Time:00:20:40 
+
+ Batch 1650 started. Time:00:20:40 completed Time:00:20:41 
+
+ Batch 1651 started. Time:00:20:41 completed Time:00:20:41 
+
+ Batch 1652 started. Time:00:20:50 completed Time:00:20:51 
+
+ Batch 1653 started. Time:00:21:05 completed Time:00:21:05 
+
+ Batch 1654 started. Time:00:21:10 completed Time:00:21:11 
+
+ Batch 1655 started. Time:00:21:11 completed Time:00:21:11 
+
+ Batch 1656 started. Time:00:21:13 completed Time:00:21:13 
+
+ Batch 1657 started. Time:00:21:16 completed Time:00:21:16 
+
+ Batch 1658 started. Time:00:21:16 completed Time:00:21:17 
+
+ Batch 1659 started. Time:00:21:17 completed Time:00:21:18 
+
+ Batch 1660 started. Time:00:21:18 completed Time:00:21:18 
+
+ Batch 1661 started. Time:00:21:19 completed Time:00:21:19 
+
+ Batch 1662 started. Time:00:21:28 completed Time:00:21:29 
+
+ Batch 1663 started. Time:00:21:29 completed Time:00:21:30 
+
+ Batch 1664 started. Time:00:21:30 completed Time:00:21:30 
+
+ Batch 1665 started. Time:00:21:30 completed Time:00:21:31 
+
+ Batch 1666 started. Time:00:21:40 completed Time:00:21:41 
+
+ Batch 1667 started. Time:00:21:53 completed Time:00:21:54 
+
+ Batch 1668 started. Time:00:22:02 completed Time:00:22:03 
+
+ Batch 1669 started. Time:00:22:03 completed Time:00:22:03 
+
+ Batch 1670 started. Time:00:22:04 completed Time:00:22:05 
+
+ Batch 1671 started. Time:00:22:07 completed Time:00:22:07 
+
+ Batch 1672 started. Time:00:22:07 completed Time:00:22:08 
+
+ Batch 1673 started. Time:00:22:08 completed Time:00:22:09 
+
+ Batch 1674 started. Time:00:22:09 completed Time:00:22:09 
+
+ Batch 1675 started. Time:00:22:09 completed Time:00:22:10 
+
+ Batch 1676 started. Time:00:22:16 completed Time:00:22:17 
+
+ Batch 1677 started. Time:00:22:17 completed Time:00:22:17 
+
+ Batch 1678 started. Time:00:22:17 completed Time:00:22:18 
+
+ Batch 1679 started. Time:00:22:18 completed Time:00:22:19 
+
+ Batch 1680 started. Time:00:22:30 completed Time:00:22:31 
+
+ Batch 1681 started. Time:00:22:40 completed Time:00:22:41 
+
+ Batch 1682 started. Time:00:22:48 completed Time:00:22:49 
+
+ Batch 1683 started. Time:00:22:49 completed Time:00:22:50 
+
+ Batch 1684 started. Time:00:22:52 completed Time:00:22:52 
+
+ Batch 1685 started. Time:00:22:54 completed Time:00:22:55 
+
+ Batch 1686 started. Time:00:22:55 completed Time:00:22:55 
+
+ Batch 1687 started. Time:00:22:55 completed Time:00:22:56 
+
+ Batch 1688 started. Time:00:22:56 completed Time:00:22:57 
+
+ Batch 1689 started. Time:00:22:57 completed Time:00:22:57 
+
+ Batch 1690 started. Time:00:23:04 completed Time:00:23:04 
+
+ Batch 1691 started. Time:00:23:05 completed Time:00:23:05 
+
+ Batch 1692 started. Time:00:23:05 completed Time:00:23:06 
+
+ Batch 1693 started. Time:00:23:06 completed Time:00:23:07 
+
+ Batch 1694 started. Time:00:23:17 completed Time:00:23:17 
+
+ Batch 1695 started. Time:00:23:26 completed Time:00:23:26 
+
+ Batch 1696 started. Time:00:23:37 completed Time:00:23:38 
+
+ Batch 1697 started. Time:00:23:38 completed Time:00:23:38 
+
+ Batch 1698 started. Time:00:23:39 completed Time:00:23:40 
+
+ Batch 1699 started. Time:00:23:43 completed Time:00:23:44 
+
+ Batch 1700 started. Time:00:23:44 completed Time:00:23:44 
+
+ Batch 1701 started. Time:00:23:45 completed Time:00:23:45 
+
+ Batch 1702 started. Time:00:23:45 completed Time:00:23:46 
+
+ Batch 1703 started. Time:00:23:46 completed Time:00:23:47 
+
+ Batch 1704 started. Time:00:23:52 completed Time:00:23:53 
+
+ Batch 1705 started. Time:00:23:53 completed Time:00:23:54 
+
+ Batch 1706 started. Time:00:23:54 completed Time:00:23:54 
+
+ Batch 1707 started. Time:00:23:54 completed Time:00:23:55 
+
+ Batch 1708 started. Time:00:24:04 completed Time:00:24:05 
+
+ Batch 1709 started. Time:00:24:13 completed Time:00:24:14 
+
+ Batch 1710 started. Time:00:24:23 completed Time:00:24:24 
+
+ Batch 1711 started. Time:00:24:24 completed Time:00:24:24 
+
+ Batch 1712 started. Time:00:24:26 completed Time:00:24:27 
+
+ Batch 1713 started. Time:00:24:30 completed Time:00:24:30 
+
+ Batch 1714 started. Time:00:24:30 completed Time:00:24:31 
+
+ Batch 1715 started. Time:00:24:31 completed Time:00:24:32 
+
+ Batch 1716 started. Time:00:24:32 completed Time:00:24:32 
+
+ Batch 1717 started. Time:00:24:32 completed Time:00:24:33 
+
+ Batch 1718 started. Time:00:24:42 completed Time:00:24:42 
+
+ Batch 1719 started. Time:00:24:42 completed Time:00:24:43 
+
+ Batch 1720 started. Time:00:24:43 completed Time:00:24:44 
+
+ Batch 1721 started. Time:00:24:44 completed Time:00:24:44 
+
+ Batch 1722 started. Time:00:24:50 completed Time:00:24:50 
+
+ Batch 1723 started. Time:00:25:01 completed Time:00:25:02 
+
+ Batch 1724 started. Time:00:25:09 completed Time:00:25:10 
+
+ Batch 1725 started. Time:00:25:10 completed Time:00:25:10 
+
+ Batch 1726 started. Time:00:25:11 completed Time:00:25:12 
+
+ Batch 1727 started. Time:00:25:15 completed Time:00:25:16 
+
+ Batch 1728 started. Time:00:25:16 completed Time:00:25:17 
+
+ Batch 1729 started. Time:00:25:17 completed Time:00:25:17 
+
+ Batch 1730 started. Time:00:25:18 completed Time:00:25:18 
+
+ Batch 1731 started. Time:00:25:18 completed Time:00:25:19 
+
+ Batch 1732 started. Time:00:25:26 completed Time:00:25:27 
+
+ Batch 1733 started. Time:00:25:27 completed Time:00:25:28 
+
+ Batch 1734 started. Time:00:25:28 completed Time:00:25:28 
+
+ Batch 1735 started. Time:00:25:28 completed Time:00:25:29 
+
+ Batch 1736 started. Time:00:25:35 completed Time:00:25:36 
+
+ Batch 1737 started. Time:00:25:47 completed Time:00:25:47 
+
+ Batch 1738 started. Time:00:25:54 completed Time:00:25:55 
+
+ Batch 1739 started. Time:00:25:55 completed Time:00:25:56 
+
+ Batch 1740 started. Time:00:25:56 completed Time:00:25:56 
+
+ Batch 1741 started. Time:00:26:01 completed Time:00:26:02 
+
+ Batch 1742 started. Time:00:26:02 completed Time:00:26:03 
+
+ Batch 1743 started. Time:00:26:03 completed Time:00:26:03 
+
+ Batch 1744 started. Time:00:26:03 completed Time:00:26:04 
+
+ Batch 1745 started. Time:00:26:04 completed Time:00:26:05 
+
+ Batch 1746 started. Time:00:26:12 completed Time:00:26:13 
+
+ Batch 1747 started. Time:00:26:13 completed Time:00:26:14 
+
+ Batch 1748 started. Time:00:26:14 completed Time:00:26:14 
+
+ Batch 1749 started. Time:00:26:14 completed Time:00:26:15 
+
+ Batch 1750 started. Time:00:26:22 completed Time:00:26:23 
+
+ Batch 1751 started. Time:00:26:33 completed Time:00:26:34 
+
+ Batch 1752 started. Time:00:26:41 completed Time:00:26:41 
+
+ Batch 1753 started. Time:00:26:41 completed Time:00:26:42 
+
+ Batch 1754 started. Time:00:26:42 completed Time:00:26:42 
+
+ Batch 1755 started. Time:00:26:49 completed Time:00:26:50 
+
+ Batch 1756 started. Time:00:26:50 completed Time:00:26:50 
+
+ Batch 1757 started. Time:00:26:50 completed Time:00:26:51 
+
+ Batch 1758 started. Time:00:26:51 completed Time:00:26:52 
+
+ Batch 1759 started. Time:00:26:52 completed Time:00:26:52 
+
+ Batch 1760 started. Time:00:26:59 completed Time:00:27:00 
+
+ Batch 1761 started. Time:00:27:00 completed Time:00:27:01 
+
+ Batch 1762 started. Time:00:27:01 completed Time:00:27:01 
+
+ Batch 1763 started. Time:00:27:01 completed Time:00:27:02 
+
+ Batch 1764 started. Time:00:27:08 completed Time:00:27:09 
+
+ Batch 1765 started. Time:00:27:21 completed Time:00:27:21 
+
+ Batch 1766 started. Time:00:27:28 completed Time:00:27:29 
+
+ Batch 1767 started. Time:00:27:29 completed Time:00:27:30 
+
+ Batch 1768 started. Time:00:27:30 completed Time:00:27:30 
+
+ Batch 1769 started. Time:00:27:37 completed Time:00:27:37 
+
+ Batch 1770 started. Time:00:27:38 completed Time:00:27:38 
+
+ Batch 1771 started. Time:00:27:38 completed Time:00:27:39 
+
+ Batch 1772 started. Time:00:27:39 completed Time:00:27:40 
+
+ Batch 1773 started. Time:00:27:40 completed Time:00:27:40 
+
+ Batch 1774 started. Time:00:27:46 completed Time:00:27:47 
+
+ Batch 1775 started. Time:00:27:47 completed Time:00:27:47 
+
+ Batch 1776 started. Time:00:27:47 completed Time:00:27:48 
+
+ Batch 1777 started. Time:00:27:48 completed Time:00:27:49 
+
+ Batch 1778 started. Time:00:27:58 completed Time:00:27:58 
+
+ Batch 1779 started. Time:00:28:11 completed Time:00:28:12 
+
+ Batch 1780 started. Time:00:28:18 completed Time:00:28:18 
+
+ Batch 1781 started. Time:00:28:18 completed Time:00:28:19 
+
+ Batch 1782 started. Time:00:28:19 completed Time:00:28:20 
+
+ Batch 1783 started. Time:00:28:25 completed Time:00:28:26 
+
+ Batch 1784 started. Time:00:28:26 completed Time:00:28:27 
+
+ Batch 1785 started. Time:00:28:27 completed Time:00:28:27 
+
+ Batch 1786 started. Time:00:28:27 completed Time:00:28:28 
+
+ Batch 1787 started. Time:00:28:28 completed Time:00:28:29 
+
+ Batch 1788 started. Time:00:28:36 completed Time:00:28:36 
+
+ Batch 1789 started. Time:00:28:37 completed Time:00:28:37 
+
+ Batch 1790 started. Time:00:28:37 completed Time:00:28:38 
+
+ Batch 1791 started. Time:00:28:38 completed Time:00:28:39 
+
+ Batch 1792 started. Time:00:28:46 completed Time:00:28:46 
+
+ Batch 1793 started. Time:00:28:59 completed Time:00:28:59 
+
+ Batch 1794 started. Time:00:29:03 completed Time:00:29:03 
+
+ Batch 1795 started. Time:00:29:04 completed Time:00:29:04 
+
+ Batch 1796 started. Time:00:29:04 completed Time:00:29:05 
+
+ Batch 1797 started. Time:00:29:12 completed Time:00:29:13 
+
+ Batch 1798 started. Time:00:29:13 completed Time:00:29:14 
+
+ Batch 1799 started. Time:00:29:14 completed Time:00:29:14 
+
+ Batch 1800 started. Time:00:29:14 completed Time:00:29:15 
+
+ Batch 1801 started. Time:00:29:15 completed Time:00:29:16 
+
+ Batch 1802 started. Time:00:29:23 completed Time:00:29:23 
+
+ Batch 1803 started. Time:00:29:23 completed Time:00:29:24 
+
+ Batch 1804 started. Time:00:29:24 completed Time:00:29:25 
+
+ Batch 1805 started. Time:00:29:25 completed Time:00:29:25 
+
+ Batch 1806 started. Time:00:29:34 completed Time:00:29:35 
+
+ Batch 1807 started. Time:00:29:45 completed Time:00:29:45 
+
+ Batch 1808 started. Time:00:29:49 completed Time:00:29:49 
+
+ Batch 1809 started. Time:00:29:50 completed Time:00:29:51 
+
+ Batch 1810 started. Time:00:29:51 completed Time:00:29:51 
+
+ Batch 1811 started. Time:00:30:02 completed Time:00:30:02 
+
+ Batch 1812 started. Time:00:30:02 completed Time:00:30:03 
+
+ Batch 1813 started. Time:00:30:03 completed Time:00:30:04 
+
+ Batch 1814 started. Time:00:30:04 completed Time:00:30:04 
+
+ Batch 1815 started. Time:00:30:04 completed Time:00:30:05 
+
+ Batch 1816 started. Time:00:30:11 completed Time:00:30:11 
+
+ Batch 1817 started. Time:00:30:11 completed Time:00:30:12 
+
+ Batch 1818 started. Time:00:30:12 completed Time:00:30:13 
+
+ Batch 1819 started. Time:00:30:13 completed Time:00:30:13 
+
+ Batch 1820 started. Time:00:30:22 completed Time:00:30:23 
+
+ Batch 1821 started. Time:00:30:34 completed Time:00:30:34 
+
+ Batch 1822 started. Time:00:30:36 completed Time:00:30:37 
+
+ Batch 1823 started. Time:00:30:37 completed Time:00:30:38 
+
+ Batch 1824 started. Time:00:30:38 completed Time:00:30:38 
+
+ Batch 1825 started. Time:00:30:51 completed Time:00:30:52 
+
+ Batch 1826 started. Time:00:30:52 completed Time:00:30:52 
+
+ Batch 1827 started. Time:00:30:52 completed Time:00:30:53 
+
+ Batch 1828 started. Time:00:30:53 completed Time:00:30:54 
+
+ Batch 1829 started. Time:00:30:54 completed Time:00:30:54 
+
+ Batch 1830 started. Time:00:30:57 completed Time:00:30:58 
+
+ Batch 1831 started. Time:00:30:58 completed Time:00:30:59 
+
+ Batch 1832 started. Time:00:30:59 completed Time:00:30:59 
+
+ Batch 1833 started. Time:00:31:00 completed Time:00:31:00 
+
+ Batch 1834 started. Time:00:31:10 completed Time:00:31:11 
+
+ Batch 1835 started. Time:00:31:20 completed Time:00:31:21 
+
+ Batch 1836 started. Time:00:31:26 completed Time:00:31:26 
+
+ Batch 1837 started. Time:00:31:26 completed Time:00:31:27 
+
+ Batch 1838 started. Time:00:31:27 completed Time:00:31:28 
+
+ Batch 1839 started. Time:00:31:37 completed Time:00:31:38 
+
+ Batch 1840 started. Time:00:31:38 completed Time:00:31:39 
+
+ Batch 1841 started. Time:00:31:39 completed Time:00:31:39 
+
+ Batch 1842 started. Time:00:31:39 completed Time:00:31:40 
+
+ Batch 1843 started. Time:00:31:40 completed Time:00:31:41 
+
+ Batch 1844 started. Time:00:31:45 completed Time:00:31:45 
+
+ Batch 1845 started. Time:00:31:45 completed Time:00:31:46 
+
+ Batch 1846 started. Time:00:31:46 completed Time:00:31:47 
+
+ Batch 1847 started. Time:00:31:47 completed Time:00:31:47 
+
+ Batch 1848 started. Time:00:31:58 completed Time:00:31:59 
+
+ Batch 1849 started. Time:00:32:09 completed Time:00:32:09 
+
+ Batch 1850 started. Time:00:32:14 completed Time:00:32:14 
+
+ Batch 1851 started. Time:00:32:14 completed Time:00:32:15 
+
+ Batch 1852 started. Time:00:32:15 completed Time:00:32:16 
+
+ Batch 1853 started. Time:00:32:24 completed Time:00:32:25 
+
+ Batch 1854 started. Time:00:32:25 completed Time:00:32:26 
+
+ Batch 1855 started. Time:00:32:26 completed Time:00:32:26 
+
+ Batch 1856 started. Time:00:32:26 completed Time:00:32:27 
+
+ Batch 1857 started. Time:00:32:27 completed Time:00:32:28 
+
+ Batch 1858 started. Time:00:32:33 completed Time:00:32:34 
+
+ Batch 1859 started. Time:00:32:34 completed Time:00:32:35 
+
+ Batch 1860 started. Time:00:32:35 completed Time:00:32:35 
+
+ Batch 1861 started. Time:00:32:35 completed Time:00:32:36 
+
+ Batch 1862 started. Time:00:32:45 completed Time:00:32:45 
+
+ Batch 1863 started. Time:00:32:56 completed Time:00:32:57 
+
+ Batch 1864 started. Time:00:33:02 completed Time:00:33:03 
+
+ Batch 1865 started. Time:00:33:03 completed Time:00:33:03 
+
+ Batch 1866 started. Time:00:33:03 completed Time:00:33:04 
+
+ Batch 1867 started. Time:00:33:10 completed Time:00:33:11 
+
+ Batch 1868 started. Time:00:33:11 completed Time:00:33:12 
+
+ Batch 1869 started. Time:00:33:12 completed Time:00:33:12 
+
+ Batch 1870 started. Time:00:33:13 completed Time:00:33:13 
+
+ Batch 1871 started. Time:00:33:13 completed Time:00:33:14 
+
+ Batch 1872 started. Time:00:33:20 completed Time:00:33:21 
+
+ Batch 1873 started. Time:00:33:21 completed Time:00:33:21 
+
+ Batch 1874 started. Time:00:33:22 completed Time:00:33:22 
+
+ Batch 1875 started. Time:00:33:22 completed Time:00:33:23 
+
+ Batch 1876 started. Time:00:33:31 completed Time:00:33:32 
+
+ Batch 1877 started. Time:00:33:42 completed Time:00:33:42 
+
+ Batch 1878 started. Time:00:33:47 completed Time:00:33:47 
+
+ Batch 1879 started. Time:00:33:48 completed Time:00:33:48 
+
+ Batch 1880 started. Time:00:33:48 completed Time:00:33:49 
+
+ Batch 1881 started. Time:00:33:56 completed Time:00:33:57 
+
+ Batch 1882 started. Time:00:33:57 completed Time:00:33:58 
+
+ Batch 1883 started. Time:00:33:58 completed Time:00:33:58 
+
+ Batch 1884 started. Time:00:33:59 completed Time:00:33:59 
+
+ Batch 1885 started. Time:00:33:59 completed Time:00:34:00 
+
+ Batch 1886 started. Time:00:34:06 completed Time:00:34:06 
+
+ Batch 1887 started. Time:00:34:07 completed Time:00:34:07 
+
+ Batch 1888 started. Time:00:34:07 completed Time:00:34:08 
+
+ Batch 1889 started. Time:00:34:08 completed Time:00:34:09 
+
+ Batch 1890 started. Time:00:34:19 completed Time:00:34:20 
+
+ Batch 1891 started. Time:00:34:28 completed Time:00:34:29 
+
+ Batch 1892 started. Time:00:34:36 completed Time:00:34:37 
+
+ Batch 1893 started. Time:00:34:37 completed Time:00:34:37 
+
+ Batch 1894 started. Time:00:34:38 completed Time:00:34:38 
+
+ Batch 1895 started. Time:00:34:46 completed Time:00:34:46 
+
+ Batch 1896 started. Time:00:34:46 completed Time:00:34:47 
+
+ Batch 1897 started. Time:00:34:47 completed Time:00:34:48 
+
+ Batch 1898 started. Time:00:34:48 completed Time:00:34:48 
+
+ Batch 1899 started. Time:00:34:48 completed Time:00:34:49 
+
+ Batch 1900 started. Time:00:34:54 completed Time:00:34:55 
+
+ Batch 1901 started. Time:00:34:55 completed Time:00:34:56 
+
+ Batch 1902 started. Time:00:34:56 completed Time:00:34:56 
+
+ Batch 1903 started. Time:00:34:56 completed Time:00:34:57 
+
+ Batch 1904 started. Time:00:35:09 completed Time:00:35:09 
+
+ Batch 1905 started. Time:00:35:18 completed Time:00:35:18 
+
+ Batch 1906 started. Time:00:35:24 completed Time:00:35:24 
+
+ Batch 1907 started. Time:00:35:24 completed Time:00:35:25 
+
+ Batch 1908 started. Time:00:35:25 completed Time:00:35:26 
+
+ Batch 1909 started. Time:00:35:34 completed Time:00:35:35 
+
+ Batch 1910 started. Time:00:35:35 completed Time:00:35:36 
+
+ Batch 1911 started. Time:00:35:36 completed Time:00:35:37 
+
+ Batch 1912 started. Time:00:35:37 completed Time:00:35:38 
+
+ Batch 1913 started. Time:00:35:38 completed Time:00:35:38 
+
+ Batch 1914 started. Time:00:35:42 completed Time:00:35:43 
+
+ Batch 1915 started. Time:00:35:43 completed Time:00:35:44 
+
+ Batch 1916 started. Time:00:35:44 completed Time:00:35:44 
+
+ Batch 1917 started. Time:00:35:45 completed Time:00:35:45 
+
+ Batch 1918 started. Time:00:35:57 completed Time:00:35:58 
+
+ Batch 1919 started. Time:00:36:05 completed Time:00:36:05 
+
+ Batch 1920 started. Time:00:36:14 completed Time:00:36:15 
+
+ Batch 1921 started. Time:00:36:15 completed Time:00:36:16 
+
+ Batch 1922 started. Time:00:36:16 completed Time:00:36:16 
+
+ Batch 1923 started. Time:00:36:22 completed Time:00:36:23 
+
+ Batch 1924 started. Time:00:36:23 completed Time:00:36:23 
+
+ Batch 1925 started. Time:00:36:26 completed Time:00:36:27 
+
+ Batch 1926 started. Time:00:36:27 completed Time:00:36:27 
+
+ Batch 1927 started. Time:00:36:27 completed Time:00:36:28 
+
+ Batch 1928 started. Time:00:36:30 completed Time:00:36:31 
+
+ Batch 1929 started. Time:00:36:31 completed Time:00:36:31 
+
+ Batch 1930 started. Time:00:36:31 completed Time:00:36:32 
+
+ Batch 1931 started. Time:00:36:32 completed Time:00:36:33 
+
+ Batch 1932 started. Time:00:36:46 completed Time:00:36:47 
+
+ Batch 1933 started. Time:00:36:56 completed Time:00:36:56 
+
+ Batch 1934 started. Time:00:37:04 completed Time:00:37:04 
+
+ Batch 1935 started. Time:00:37:04 completed Time:00:37:05 
+
+ Batch 1936 started. Time:00:37:05 completed Time:00:37:06 
+
+ Batch 1937 started. Time:00:37:10 completed Time:00:37:10 
+
+ Batch 1938 started. Time:00:37:10 completed Time:00:37:11 
+
+ Batch 1939 started. Time:00:37:16 completed Time:00:37:16 
+
+ Batch 1940 started. Time:00:37:16 completed Time:00:37:17 
+
+ Batch 1941 started. Time:00:37:17 completed Time:00:37:18 
+
+ Batch 1942 started. Time:00:37:20 completed Time:00:37:21 
+
+ Batch 1943 started. Time:00:37:21 completed Time:00:37:21 
+
+ Batch 1944 started. Time:00:37:21 completed Time:00:37:22 
+
+ Batch 1945 started. Time:00:37:22 completed Time:00:37:23 
+
+ Batch 1946 started. Time:00:37:38 completed Time:00:37:39 
+
+ Batch 1947 started. Time:00:37:45 completed Time:00:37:46 
+
+ Batch 1948 started. Time:00:37:55 completed Time:00:37:55 
+
+ Batch 1949 started. Time:00:37:55 completed Time:00:37:56 
+
+ Batch 1950 started. Time:00:37:56 completed Time:00:37:57 
+
+ Batch 1951 started. Time:00:37:59 completed Time:00:38:00 
+
+ Batch 1952 started. Time:00:38:00 completed Time:00:38:01 
+
+ Batch 1953 started. Time:00:38:09 completed Time:00:38:10 
+
+ Batch 1954 started. Time:00:38:10 completed Time:00:38:10 
+
+ Batch 1955 started. Time:00:38:10 completed Time:00:38:11 
+
+ Batch 1956 started. Time:00:38:13 completed Time:00:38:13 
+
+ Batch 1957 started. Time:00:38:13 completed Time:00:38:14 
+
+ Batch 1958 started. Time:00:38:14 completed Time:00:38:15 
+
+ Batch 1959 started. Time:00:38:15 completed Time:00:38:15 
+
+ Batch 1960 started. Time:00:38:25 completed Time:00:38:25 
+
+ Batch 1961 started. Time:00:38:32 completed Time:00:38:33 
+
+ Batch 1962 started. Time:00:38:39 completed Time:00:38:40 
+
+ Batch 1963 started. Time:00:38:40 completed Time:00:38:41 
+
+ Batch 1964 started. Time:00:38:41 completed Time:00:38:41 
+
+ Batch 1965 started. Time:00:38:45 completed Time:00:38:46 
+
+ Batch 1966 started. Time:00:38:46 completed Time:00:38:47 
+
+ Batch 1967 started. Time:00:38:54 completed Time:00:38:55 
+
+ Batch 1968 started. Time:00:38:55 completed Time:00:38:55 
+
+ Batch 1969 started. Time:00:38:56 completed Time:00:38:56 
+
+ Batch 1970 started. Time:00:38:58 completed Time:00:38:58 
+
+ Batch 1971 started. Time:00:38:59 completed Time:00:38:59 
+
+ Batch 1972 started. Time:00:38:59 completed Time:00:39:00 
+
+ Batch 1973 started. Time:00:39:00 completed Time:00:39:01 
+
+ Batch 1974 started. Time:00:39:11 completed Time:00:39:12 
+
+ Batch 1975 started. Time:00:39:19 completed Time:00:39:19 
+
+ Batch 1976 started. Time:00:39:27 completed Time:00:39:27 
+
+ Batch 1977 started. Time:00:39:27 completed Time:00:39:28 
+
+ Batch 1978 started. Time:00:39:28 completed Time:00:39:29 
+
+ Batch 1979 started. Time:00:39:36 completed Time:00:39:37 
+
+ Batch 1980 started. Time:00:39:37 completed Time:00:39:37 
+
+ Batch 1981 started. Time:00:39:44 completed Time:00:39:44 
+
+ Batch 1982 started. Time:00:39:44 completed Time:00:39:45 
+
+ Batch 1983 started. Time:00:39:45 completed Time:00:39:46 
+
+ Batch 1984 started. Time:00:39:47 completed Time:00:39:48 
+
+ Batch 1985 started. Time:00:39:48 completed Time:00:39:49 
+
+ Batch 1986 started. Time:00:39:49 completed Time:00:39:49 
+
+ Batch 1987 started. Time:00:39:49 completed Time:00:39:50 
+
+ Batch 1988 started. Time:00:40:01 completed Time:00:40:02 
+
+ Batch 1989 started. Time:00:40:07 completed Time:00:40:08 
+
+ Batch 1990 started. Time:00:40:14 completed Time:00:40:15 
+
+ Batch 1991 started. Time:00:40:15 completed Time:00:40:16 
+
+ Batch 1992 started. Time:00:40:16 completed Time:00:40:17 
+
+ Batch 1993 started. Time:00:40:22 completed Time:00:40:23 
+
+ Batch 1994 started. Time:00:40:23 completed Time:00:40:24 
+
+ Batch 1995 started. Time:00:40:30 completed Time:00:40:31 
+
+ Batch 1996 started. Time:00:40:31 completed Time:00:40:32 
+
+ Batch 1997 started. Time:00:40:32 completed Time:00:40:32 
+
+ Batch 1998 started. Time:00:40:34 completed Time:00:40:34 
+
+ Batch 1999 started. Time:00:40:34 completed Time:00:40:35 
+
+ Batch 2000 started. Time:00:40:35 completed Time:00:40:36 
+
+ Batch 2001 started. Time:00:40:36 completed Time:00:40:36 
+
+ Batch 2002 started. Time:00:40:48 completed Time:00:40:49 
+
+ Batch 2003 started. Time:00:40:56 completed Time:00:40:56 
+
+ Batch 2004 started. Time:00:41:00 completed Time:00:41:01 
+
+ Batch 2005 started. Time:00:41:01 completed Time:00:41:02 
+
+ Batch 2006 started. Time:00:41:03 completed Time:00:41:04 
+
+ Batch 2007 started. Time:00:41:10 completed Time:00:41:11 
+
+ Batch 2008 started. Time:00:41:11 completed Time:00:41:11 
+
+ Batch 2009 started. Time:00:41:17 completed Time:00:41:18 
+
+ Batch 2010 started. Time:00:41:18 completed Time:00:41:19 
+
+ Batch 2011 started. Time:00:41:19 completed Time:00:41:19 
+
+ Batch 2012 started. Time:00:41:22 completed Time:00:41:22 
+
+ Batch 2013 started. Time:00:41:22 completed Time:00:41:23 
+
+ Batch 2014 started. Time:00:41:23 completed Time:00:41:24 
+
+ Batch 2015 started. Time:00:41:24 completed Time:00:41:24 
+
+ Batch 2016 started. Time:00:41:37 completed Time:00:41:37 
+
+ Batch 2017 started. Time:00:41:44 completed Time:00:41:45 
+
+ Batch 2018 started. Time:00:41:50 completed Time:00:41:51 
+
+ Batch 2019 started. Time:00:41:51 completed Time:00:41:52 
+
+ Batch 2020 started. Time:00:41:56 completed Time:00:41:57 
+
+ Batch 2021 started. Time:00:42:03 completed Time:00:42:03 
+
+ Batch 2022 started. Time:00:42:03 completed Time:00:42:04 
+
+ Batch 2023 started. Time:00:42:10 completed Time:00:42:11 
+
+ Batch 2024 started. Time:00:42:11 completed Time:00:42:11 
+
+ Batch 2025 started. Time:00:42:11 completed Time:00:42:12 
+
+ Batch 2026 started. Time:00:42:14 completed Time:00:42:14 
+
+ Batch 2027 started. Time:00:42:14 completed Time:00:42:15 
+
+ Batch 2028 started. Time:00:42:15 completed Time:00:42:16 
+
+ Batch 2029 started. Time:00:42:16 completed Time:00:42:16 
+
+ Batch 2030 started. Time:00:42:27 completed Time:00:42:27 
+
+ Batch 2031 started. Time:00:42:33 completed Time:00:42:33 
+
+ Batch 2032 started. Time:00:42:40 completed Time:00:42:40 
+
+ Batch 2033 started. Time:00:42:41 completed Time:00:42:41 
+
+ Batch 2034 started. Time:00:42:46 completed Time:00:42:46 
+
+ Batch 2035 started. Time:00:42:52 completed Time:00:42:53 
+
+ Batch 2036 started. Time:00:42:53 completed Time:00:42:53 
+
+ Batch 2037 started. Time:00:42:57 completed Time:00:42:58 
+
+ Batch 2038 started. Time:00:42:58 completed Time:00:42:59 
+
+ Batch 2039 started. Time:00:42:59 completed Time:00:42:59 
+
+ Batch 2040 started. Time:00:43:00 completed Time:00:43:00 
+
+ Batch 2041 started. Time:00:43:01 completed Time:00:43:01 
+
+ Batch 2042 started. Time:00:43:01 completed Time:00:43:02 
+
+ Batch 2043 started. Time:00:43:02 completed Time:00:43:03 
+
+ Batch 2044 started. Time:00:43:14 completed Time:00:43:14 
+
+ Batch 2045 started. Time:00:43:19 completed Time:00:43:19 
+
+ Batch 2046 started. Time:00:43:26 completed Time:00:43:27 
+
+ Batch 2047 started. Time:00:43:27 completed Time:00:43:27 
+
+ Batch 2048 started. Time:00:43:31 completed Time:00:43:31 
+
+ Batch 2049 started. Time:00:43:37 completed Time:00:43:38 
+
+ Batch 2050 started. Time:00:43:38 completed Time:00:43:39 
+
+ Batch 2051 started. Time:00:43:44 completed Time:00:43:45 
+
+ Batch 2052 started. Time:00:43:45 completed Time:00:43:45 
+
+ Batch 2053 started. Time:00:43:45 completed Time:00:43:46 
+
+ Batch 2054 started. Time:00:43:46 completed Time:00:43:47 
+
+ Batch 2055 started. Time:00:43:47 completed Time:00:43:48 
+
+ Batch 2056 started. Time:00:43:48 completed Time:00:43:48 
+
+ Batch 2057 started. Time:00:43:49 completed Time:00:43:49 
+
+ Batch 2058 started. Time:00:44:00 completed Time:00:44:01 
+
+ Batch 2059 started. Time:00:44:06 completed Time:00:44:06 
+
+ Batch 2060 started. Time:00:44:13 completed Time:00:44:13 
+
+ Batch 2061 started. Time:00:44:13 completed Time:00:44:14 
+
+ Batch 2062 started. Time:00:44:18 completed Time:00:44:19 
+
+ Batch 2063 started. Time:00:44:24 completed Time:00:44:24 
+
+ Batch 2064 started. Time:00:44:24 completed Time:00:44:25 
+
+ Batch 2065 started. Time:00:44:29 completed Time:00:44:30 
+
+ Batch 2066 started. Time:00:44:30 completed Time:00:44:30 
+
+ Batch 2067 started. Time:00:44:31 completed Time:00:44:31 
+
+ Batch 2068 started. Time:00:44:33 completed Time:00:44:33 
+
+ Batch 2069 started. Time:00:44:33 completed Time:00:44:34 
+
+ Batch 2070 started. Time:00:44:34 completed Time:00:44:35 
+
+ Batch 2071 started. Time:00:44:35 completed Time:00:44:35 
+
+ Batch 2072 started. Time:00:44:46 completed Time:00:44:46 
+
+ Batch 2073 started. Time:00:44:50 completed Time:00:44:51 
+
+ Batch 2074 started. Time:00:44:57 completed Time:00:44:58 
+
+ Batch 2075 started. Time:00:44:58 completed Time:00:44:59 
+
+ Batch 2076 started. Time:00:45:03 completed Time:00:45:04 
+
+ Batch 2077 started. Time:00:45:09 completed Time:00:45:09 
+
+ Batch 2078 started. Time:00:45:09 completed Time:00:45:10 
+
+ Batch 2079 started. Time:00:45:15 completed Time:00:45:16 
+
+ Batch 2080 started. Time:00:45:16 completed Time:00:45:16 
+
+ Batch 2081 started. Time:00:45:17 completed Time:00:45:17 
+
+ Batch 2082 started. Time:00:45:18 completed Time:00:45:19 
+
+ Batch 2083 started. Time:00:45:19 completed Time:00:45:20 
+
+ Batch 2084 started. Time:00:45:20 completed Time:00:45:20 
+
+ Batch 2085 started. Time:00:45:21 completed Time:00:45:21 
+
+ Batch 2086 started. Time:00:45:31 completed Time:00:45:31 
+
+ Batch 2087 started. Time:00:45:34 completed Time:00:45:35 
+
+ Batch 2088 started. Time:00:45:41 completed Time:00:45:42 
+
+ Batch 2089 started. Time:00:45:42 completed Time:00:45:43 
+
+ Batch 2090 started. Time:00:45:47 completed Time:00:45:47 
+
+ Batch 2091 started. Time:00:45:54 completed Time:00:45:54 
+
+ Batch 2092 started. Time:00:45:54 completed Time:00:45:55 
+
+ Batch 2093 started. Time:00:45:59 completed Time:00:45:59 
+
+ Batch 2094 started. Time:00:46:00 completed Time:00:46:00 
+
+ Batch 2095 started. Time:00:46:00 completed Time:00:46:01 
+
+ Batch 2096 started. Time:00:46:02 completed Time:00:46:03 
+
+ Batch 2097 started. Time:00:46:03 completed Time:00:46:03 
+
+ Batch 2098 started. Time:00:46:03 completed Time:00:46:04 
+
+ Batch 2099 started. Time:00:46:04 completed Time:00:46:05 
+
+ Batch 2100 started. Time:00:46:12 completed Time:00:46:12 
+
+ Batch 2101 started. Time:00:46:20 completed Time:00:46:21 
+
+ Batch 2102 started. Time:00:46:25 completed Time:00:46:26 
+
+ Batch 2103 started. Time:00:46:27 completed Time:00:46:28 
+
+ Batch 2104 started. Time:00:46:31 completed Time:00:46:32 
+
+ Batch 2105 started. Time:00:46:39 completed Time:00:46:40 
+
+ Batch 2106 started. Time:00:46:40 completed Time:00:46:41 
+
+ Batch 2107 started. Time:00:46:46 completed Time:00:46:46 
+
+ Batch 2108 started. Time:00:46:46 completed Time:00:46:47 
+
+ Batch 2109 started. Time:00:46:47 completed Time:00:46:48 
+
+ Batch 2110 started. Time:00:46:49 completed Time:00:46:49 
+
+ Batch 2111 started. Time:00:46:49 completed Time:00:46:50 
+
+ Batch 2112 started. Time:00:46:50 completed Time:00:46:51 
+
+ Batch 2113 started. Time:00:46:51 completed Time:00:46:51 
+
+ Batch 2114 started. Time:00:46:57 completed Time:00:46:58 
+
+ Batch 2115 started. Time:00:47:07 completed Time:00:47:08 
+
+ Batch 2116 started. Time:00:47:10 completed Time:00:47:11 
+
+ Batch 2117 started. Time:00:47:13 completed Time:00:47:14 
+
+ Batch 2118 started. Time:00:47:15 completed Time:00:47:16 
+
+ Batch 2119 started. Time:00:47:25 completed Time:00:47:25 
+
+ Batch 2120 started. Time:00:47:25 completed Time:00:47:26 
+
+ Batch 2121 started. Time:00:47:29 completed Time:00:47:30 
+
+ Batch 2122 started. Time:00:47:30 completed Time:00:47:30 
+
+ Batch 2123 started. Time:00:47:30 completed Time:00:47:31 
+
+ Batch 2124 started. Time:00:47:36 completed Time:00:47:36 
+
+ Batch 2125 started. Time:00:47:36 completed Time:00:47:37 
+
+ Batch 2126 started. Time:00:47:37 completed Time:00:47:38 
+
+ Batch 2127 started. Time:00:47:38 completed Time:00:47:38 
+
+ Batch 2128 started. Time:00:47:44 completed Time:00:47:45 
+
+ Batch 2129 started. Time:00:47:53 completed Time:00:47:54 
+
+ Batch 2130 started. Time:00:47:57 completed Time:00:47:57 
+
+ Batch 2131 started. Time:00:47:59 completed Time:00:47:59 
+
+ Batch 2132 started. Time:00:47:59 completed Time:00:48:00 
+
+ Batch 2133 started. Time:00:48:12 completed Time:00:48:12 
+
+ Batch 2134 started. Time:00:48:13 completed Time:00:48:13 
+
+ Batch 2135 started. Time:00:48:18 completed Time:00:48:18 
+
+ Batch 2136 started. Time:00:48:18 completed Time:00:48:19 
+
+ Batch 2137 started. Time:00:48:19 completed Time:00:48:20 
+
+ Batch 2138 started. Time:00:48:24 completed Time:00:48:25 
+
+ Batch 2139 started. Time:00:48:25 completed Time:00:48:26 
+
+ Batch 2140 started. Time:00:48:26 completed Time:00:48:26 
+
+ Batch 2141 started. Time:00:48:26 completed Time:00:48:27 
+
+ Batch 2142 started. Time:00:48:35 completed Time:00:48:36 
+
+ Batch 2143 started. Time:00:48:46 completed Time:00:48:47 
+
+ Batch 2144 started. Time:00:48:54 completed Time:00:48:54 
+
+ Batch 2145 started. Time:00:48:54 completed Time:00:48:55 
+
+ Batch 2146 started. Time:00:48:55 completed Time:00:48:56 
+
+ Batch 2147 started. Time:00:49:06 completed Time:00:49:06 
+
+ Batch 2148 started. Time:00:49:06 completed Time:00:49:07 
+
+ Batch 2149 started. Time:00:49:10 completed Time:00:49:10 
+
+ Batch 2150 started. Time:00:49:10 completed Time:00:49:11 
+
+ Batch 2151 started. Time:00:49:11 completed Time:00:49:11 
+
+ Batch 2152 started. Time:00:49:20 completed Time:00:49:20 
+
+ Batch 2153 started. Time:00:49:20 completed Time:00:49:21 
+
+ Batch 2154 started. Time:00:49:21 completed Time:00:49:22 
+
+ Batch 2155 started. Time:00:49:22 completed Time:00:49:22 
+
+ Batch 2156 started. Time:00:49:28 completed Time:00:49:29 
+
+ Batch 2157 started. Time:00:49:37 completed Time:00:49:38 
+
+ Batch 2158 started. Time:00:49:46 completed Time:00:49:46 
+
+ Batch 2159 started. Time:00:49:47 completed Time:00:49:47 
+
+ Batch 2160 started. Time:00:49:47 completed Time:00:49:48 
+
+ Batch 2161 started. Time:00:49:58 completed Time:00:49:59 
+
+ Batch 2162 started. Time:00:49:59 completed Time:00:50:00 
+
+ Batch 2163 started. Time:00:50:00 completed Time:00:50:00 
+
+ Batch 2164 started. Time:00:50:00 completed Time:00:50:01 
+
+ Batch 2165 started. Time:00:50:01 completed Time:00:50:02 
+
+ Batch 2166 started. Time:00:50:06 completed Time:00:50:06 
+
+ Batch 2167 started. Time:00:50:06 completed Time:00:50:07 
+
+ Batch 2168 started. Time:00:50:07 completed Time:00:50:08 
+
+ Batch 2169 started. Time:00:50:08 completed Time:00:50:08 
+
+ Batch 2170 started. Time:00:50:14 completed Time:00:50:15 
+
+ Batch 2171 started. Time:00:50:23 completed Time:00:50:24 
+
+ Batch 2172 started. Time:00:50:31 completed Time:00:50:31 
+
+ Batch 2173 started. Time:00:50:32 completed Time:00:50:32 
+
+ Batch 2174 started. Time:00:50:32 completed Time:00:50:33 
+
+ Batch 2175 started. Time:00:50:45 completed Time:00:50:46 
+
+ Batch 2176 started. Time:00:50:46 completed Time:00:50:47 
+
+ Batch 2177 started. Time:00:50:47 completed Time:00:50:47 
+
+ Batch 2178 started. Time:00:50:47 completed Time:00:50:48 
+
+ Batch 2179 started. Time:00:50:48 completed Time:00:50:49 
+
+ Batch 2180 started. Time:00:50:53 completed Time:00:50:53 
+
+ Batch 2181 started. Time:00:50:53 completed Time:00:50:54 
+
+ Batch 2182 started. Time:00:50:54 completed Time:00:50:55 
+
+ Batch 2183 started. Time:00:50:55 completed Time:00:50:55 
+
+ Batch 2184 started. Time:00:50:59 completed Time:00:51:00 
+
+ Batch 2185 started. Time:00:51:09 completed Time:00:51:10 
+
+ Batch 2186 started. Time:00:51:16 completed Time:00:51:17 
+
+ Batch 2187 started. Time:00:51:17 completed Time:00:51:18 
+
+ Batch 2188 started. Time:00:51:19 completed Time:00:51:20 
+
+ Batch 2189 started. Time:00:51:31 completed Time:00:51:32 
+
+ Batch 2190 started. Time:00:51:32 completed Time:00:51:33 
+
+ Batch 2191 started. Time:00:51:34 completed Time:00:51:34 
+
+ Batch 2192 started. Time:00:51:34 completed Time:00:51:35 
+
+ Batch 2193 started. Time:00:51:35 completed Time:00:51:36 
+
+ Batch 2194 started. Time:00:51:40 completed Time:00:51:41 
+
+ Batch 2195 started. Time:00:51:41 completed Time:00:51:42 
+
+ Batch 2196 started. Time:00:51:42 completed Time:00:51:42 
+
+ Batch 2197 started. Time:00:51:42 completed Time:00:51:43 
+
+ Batch 2198 started. Time:00:51:46 completed Time:00:51:47 
+
+ Batch 2199 started. Time:00:51:56 completed Time:00:51:57 
+
+ Batch 2200 started. Time:00:52:04 completed Time:00:52:04 
+
+ Batch 2201 started. Time:00:52:04 completed Time:00:52:05 
+
+ Batch 2202 started. Time:00:52:06 completed Time:00:52:06 
+
+ Batch 2203 started. Time:00:52:17 completed Time:00:52:17 
+
+ Batch 2204 started. Time:00:52:18 completed Time:00:52:18 
+
+ Batch 2205 started. Time:00:52:20 completed Time:00:52:20 
+
+ Batch 2206 started. Time:00:52:20 completed Time:00:52:21 
+
+ Batch 2207 started. Time:00:52:21 completed Time:00:52:22 
+
+ Batch 2208 started. Time:00:52:26 completed Time:00:52:26 
+
+ Batch 2209 started. Time:00:52:26 completed Time:00:52:27 
+
+ Batch 2210 started. Time:00:52:27 completed Time:00:52:28 
+
+ Batch 2211 started. Time:00:52:28 completed Time:00:52:28 
+
+ Batch 2212 started. Time:00:52:31 completed Time:00:52:31 
+
+ Batch 2213 started. Time:00:52:42 completed Time:00:52:43 
+
+ Batch 2214 started. Time:00:52:49 completed Time:00:52:49 
+
+ Batch 2215 started. Time:00:52:49 completed Time:00:52:50 
+
+ Batch 2216 started. Time:00:52:52 completed Time:00:52:53 

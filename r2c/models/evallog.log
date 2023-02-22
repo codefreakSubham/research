@@ -1,0 +1,146 @@
+Using 7 workers out of 32 possible
+Only relevant dets
+Loading embeddings from /lfs/usrhome/ms/cs21s058/scratch/r2c/data/bert_da_answer_test.h5
+Only relevant dets
+Loading embeddings from /lfs/usrhome/ms/cs21s058/scratch/r2c/data/bert_da_rationale_test.h5
+Only relevant dets
+Loading embeddings from /lfs/usrhome/ms/cs21s058/scratch/r2c/data/bert_da_rationale_test.h5
+Only relevant dets
+Loading embeddings from /lfs/usrhome/ms/cs21s058/scratch/r2c/data/bert_da_rationale_test.h5
+Only relevant dets
+Loading embeddings from /lfs/usrhome/ms/cs21s058/scratch/r2c/data/bert_da_rationale_test.h5
+Loading MultiHopAttentionQA for answer
+Completed 10/264 batches in 11.576s
+Completed 20/264 batches in 12.874s
+Completed 30/264 batches in 16.345s
+Completed 40/264 batches in 16.059s
+Completed 50/264 batches in 17.684s
+Completed 60/264 batches in 17.360s
+Completed 70/264 batches in 18.496s
+Completed 80/264 batches in 18.114s
+Completed 90/264 batches in 18.171s
+Completed 100/264 batches in 18.568s
+Completed 110/264 batches in 17.497s
+Completed 120/264 batches in 21.733s
+Completed 130/264 batches in 20.061s
+Completed 140/264 batches in 21.758s
+Completed 150/264 batches in 21.293s
+Completed 160/264 batches in 20.972s
+Completed 170/264 batches in 21.239s
+Completed 180/264 batches in 21.098s
+Completed 190/264 batches in 21.416s
+Completed 200/264 batches in 21.304s
+Completed 210/264 batches in 19.524s
+Completed 220/264 batches in 14.821s
+Completed 230/264 batches in 14.666s
+Completed 240/264 batches in 13.536s
+Completed 250/264 batches in 14.344s
+Completed 260/264 batches in 13.846s
+Loading MultiHopAttentionQA for rationale
+Completed 10/264 batches in 11.199s
+Completed 20/264 batches in 11.679s
+Completed 30/264 batches in 13.903s
+Completed 40/264 batches in 13.422s
+Completed 50/264 batches in 14.648s
+Completed 60/264 batches in 14.295s
+Completed 70/264 batches in 14.854s
+Completed 80/264 batches in 14.629s
+Completed 90/264 batches in 14.435s
+Completed 100/264 batches in 14.841s
+Completed 110/264 batches in 11.334s
+Completed 120/264 batches in 13.938s
+Completed 130/264 batches in 13.683s
+Completed 140/264 batches in 13.381s
+Completed 150/264 batches in 14.097s
+Completed 160/264 batches in 13.580s
+Completed 170/264 batches in 13.959s
+Completed 180/264 batches in 13.607s
+Completed 190/264 batches in 13.767s
+Completed 200/264 batches in 13.545s
+Completed 210/264 batches in 9.790s
+Completed 220/264 batches in 13.327s
+Completed 230/264 batches in 12.773s
+Completed 240/264 batches in 14.370s
+Completed 250/264 batches in 14.136s
+Completed 260/264 batches in 14.920s
+Loading MultiHopAttentionQA for rationale
+Completed 10/264 batches in 12.629s
+Completed 20/264 batches in 12.140s
+Completed 30/264 batches in 14.228s
+Completed 40/264 batches in 13.791s
+Completed 50/264 batches in 14.718s
+Completed 60/264 batches in 14.329s
+Completed 70/264 batches in 14.437s
+Completed 80/264 batches in 14.576s
+Completed 90/264 batches in 14.359s
+Completed 100/264 batches in 14.729s
+Completed 110/264 batches in 11.368s
+Completed 120/264 batches in 14.312s
+Completed 130/264 batches in 14.261s
+Completed 140/264 batches in 13.854s
+Completed 150/264 batches in 14.035s
+Completed 160/264 batches in 14.031s
+Completed 170/264 batches in 13.946s
+Completed 180/264 batches in 14.094s
+Completed 190/264 batches in 13.825s
+Completed 200/264 batches in 14.281s
+Completed 210/264 batches in 10.527s
+Completed 220/264 batches in 10.996s
+Completed 230/264 batches in 12.735s
+Completed 240/264 batches in 12.326s
+Completed 250/264 batches in 13.474s
+Completed 260/264 batches in 13.351s
+Loading MultiHopAttentionQA for rationale
+Completed 10/264 batches in 10.890s
+Completed 20/264 batches in 11.583s
+Completed 30/264 batches in 13.783s
+Completed 40/264 batches in 13.397s
+Completed 50/264 batches in 14.355s
+Completed 60/264 batches in 14.062s
+Completed 70/264 batches in 14.723s
+Completed 80/264 batches in 14.455s
+Completed 90/264 batches in 14.285s
+Completed 100/264 batches in 14.682s
+Completed 110/264 batches in 10.788s
+Completed 120/264 batches in 15.275s
+Completed 130/264 batches in 14.622s
+Completed 140/264 batches in 14.807s
+Completed 150/264 batches in 14.687s
+Completed 160/264 batches in 14.149s
+Completed 170/264 batches in 14.603s
+Completed 180/264 batches in 14.243s
+Completed 190/264 batches in 14.247s
+Completed 200/264 batches in 14.149s
+Completed 210/264 batches in 9.582s
+Completed 220/264 batches in 12.984s
+Completed 230/264 batches in 12.489s
+Completed 240/264 batches in 13.501s
+Completed 250/264 batches in 13.269s
+Completed 260/264 batches in 13.907s
+Loading MultiHopAttentionQA for rationale
+Completed 10/264 batches in 10.421s
+Completed 20/264 batches in 11.256s
+Completed 30/264 batches in 13.752s
+Completed 40/264 batches in 13.731s
+Completed 50/264 batches in 14.297s
+Completed 60/264 batches in 14.416s
+Completed 70/264 batches in 14.766s
+Completed 80/264 batches in 14.964s
+Completed 90/264 batches in 14.681s
+Completed 100/264 batches in 15.102s
+Completed 110/264 batches in 11.188s
+Completed 120/264 batches in 11.920s
+Completed 130/264 batches in 13.966s
+Completed 140/264 batches in 13.478s
+Completed 150/264 batches in 14.347s
+Completed 160/264 batches in 13.865s
+Completed 170/264 batches in 14.350s
+Completed 180/264 batches in 13.931s
+Completed 190/264 batches in 13.670s
+Completed 200/264 batches in 14.020s
+Completed 210/264 batches in 8.890s
+Completed 220/264 batches in 12.600s
+Completed 230/264 batches in 12.062s
+Completed 240/264 batches in 12.714s
+Completed 250/264 batches in 13.051s
+Completed 260/264 batches in 12.933s
